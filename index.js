@@ -9,7 +9,7 @@ var mapName;
 var playersNumber;
 
 server.use(jsonServer.bodyParser);
-getJSON('https://cloudquery.unixfox.eu/query?url=https%3A%2F%2Fstratus.network%2Fplay&selectors=*:nth-child(5)%20*:nth-child(2)%20%3E%20*:nth-child(1)%20%3E%20*%20%3E%20*%20%3E%20*,*:nth-child(2)%20%3E%20*:nth-child(5)%20%3E%20*%20%3E%20*%20%3E%20*:nth-child(1)%20%3E%20*:nth-child(2)', function (error, response) {
+getJSON('https://cloudquery-phjvnjk3w.now.sh/query?url=https%3A%2F%2Fstratus.network%2Fplay&selectors=*:nth-child(5)%20*:nth-child(2)%20%3E%20*:nth-child(1)%20%3E%20*%20%3E%20*%20%3E%20*,*:nth-child(2)%20%3E%20*:nth-child(5)%20%3E%20*%20%3E%20*%20%3E%20*:nth-child(1)%20%3E%20*:nth-child(2)', function (error, response) {
     if (!error) {
         mapName = response.contents[0].innerText;
         playersNumber = response.contents[1].innerText;
@@ -34,11 +34,10 @@ getJSON('https://cloudquery.unixfox.eu/query?url=https%3A%2F%2Fstratus.network%2
             console.log('JSON Server is running');
         });
     }
-    else process.exit(0);
 });
 
 setInterval(function () {
-    getJSON('https://cloudquery.unixfox.eu/query?url=https%3A%2F%2Fstratus.network%2Fplay&selectors=*:nth-child(5)%20*:nth-child(2)%20%3E%20*:nth-child(1)%20%3E%20*%20%3E%20*%20%3E%20*,*:nth-child(2)%20%3E%20*:nth-child(5)%20%3E%20*%20%3E%20*%20%3E%20*:nth-child(1)%20%3E%20*:nth-child(2)', function (error, response) {
+    getJSON('https://cloudquery-phjvnjk3w.now.sh/query?url=https%3A%2F%2Fstratus.network%2Fplay&selectors=*:nth-child(5)%20*:nth-child(2)%20%3E%20*:nth-child(1)%20%3E%20*%20%3E%20*%20%3E%20*,*:nth-child(2)%20%3E%20*:nth-child(5)%20%3E%20*%20%3E%20*%20%3E%20*:nth-child(1)%20%3E%20*:nth-child(2)', function (error, response) {
         if (!error) {
             mapName = response.contents[0].innerText;
             playersNumber = response.contents[1].innerText;
