@@ -4,8 +4,8 @@
   "description": "API for Stratus Notifier web extension",
   "main": "index.js",
   "dependencies": {
-    "json-server": "^0.14.2",
-    "request": "^2.88.0"
+    "get-json": "^1.0.1",
+    "json-server": "^0.14.2"
   },
   "devDependencies": {},
   "scripts": {
