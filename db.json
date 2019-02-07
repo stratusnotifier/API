@@ -1,0 +1,5007 @@
+{
+  "maps": {
+    "maps": [
+      {
+        "name": "Mushroom Gorge",
+        "thumb": "https://i.imgur.com/qE3eamZ.png",
+        "id": "0"
+      },
+      {
+        "id": "1",
+        "name": "Race for Victory 3"
+      },
+      {
+        "id": "2",
+        "name": "Golden Drought III.V"
+      },
+      {
+        "id": "3",
+        "name": "The Fenland - Emerald"
+      },
+      {
+        "id": "4",
+        "name": "Ring Run"
+      },
+      {
+        "id": "5",
+        "name": "Bamboo Valley"
+      },
+      {
+        "id": "6",
+        "name": "Race for Victory 2"
+      },
+      {
+        "id": "7",
+        "name": "Golden Drought"
+      },
+      {
+        "id": "8",
+        "name": "The Nile"
+      },
+      {
+        "id": "9",
+        "name": "Fourchette"
+      },
+      {
+        "id": "10",
+        "name": "BalloonsDTM"
+      },
+      {
+        "id": "11",
+        "name": "Coastline: Emerald"
+      },
+      {
+        "id": "12",
+        "name": "Two Tier"
+      },
+      {
+        "id": "13",
+        "name": "Cargo"
+      },
+      {
+        "id": "14",
+        "name": "Deepwind Redux"
+      },
+      {
+        "id": "15",
+        "name": "Tetrad"
+      },
+      {
+        "id": "16",
+        "name": "Directrix"
+      },
+      {
+        "id": "17",
+        "name": "BlockRAGE"
+      },
+      {
+        "id": "18",
+        "name": "Battle Ecliptica III"
+      },
+      {
+        "id": "19",
+        "name": "Antiquis: Emerald"
+      },
+      {
+        "id": "20",
+        "name": "Royal Garden CTW"
+      },
+      {
+        "id": "21",
+        "name": "Azure"
+      },
+      {
+        "id": "22",
+        "name": "Limbo II"
+      },
+      {
+        "id": "23",
+        "name": "Atromix"
+      },
+      {
+        "id": "24",
+        "name": "Wrath Tor RAGE"
+      },
+      {
+        "id": "25",
+        "name": "Gralien"
+      },
+      {
+        "id": "26",
+        "name": "Blocks DTC"
+      },
+      {
+        "id": "27",
+        "name": "Snowy Wars"
+      },
+      {
+        "id": "28",
+        "name": "Outback"
+      },
+      {
+        "id": "29",
+        "name": "Wildwood Crevice"
+      },
+      {
+        "id": "30",
+        "name": "Wit&#39;s End"
+      },
+      {
+        "id": "31",
+        "name": "Quadrival"
+      },
+      {
+        "id": "32",
+        "name": "Royal Garden DTC"
+      },
+      {
+        "id": "33",
+        "name": "Midnight Train"
+      },
+      {
+        "id": "34",
+        "name": "Fractal Descent"
+      },
+      {
+        "id": "35",
+        "name": "Clearcut"
+      },
+      {
+        "id": "36",
+        "name": "The Hill"
+      },
+      {
+        "id": "37",
+        "name": "Little China"
+      },
+      {
+        "id": "38",
+        "name": "Persisto"
+      },
+      {
+        "id": "39",
+        "name": "Enchanted"
+      },
+      {
+        "id": "40",
+        "name": "Egyptian Madness"
+      },
+      {
+        "id": "41",
+        "name": "Facility"
+      },
+      {
+        "id": "42",
+        "name": "Hot Dam"
+      },
+      {
+        "id": "43",
+        "name": "Equinox"
+      },
+      {
+        "id": "44",
+        "name": "Fumeen II"
+      },
+      {
+        "id": "45",
+        "name": "Water Drop: Original"
+      },
+      {
+        "id": "46",
+        "name": "Warlock"
+      },
+      {
+        "id": "47",
+        "name": "Desert Sanctuary"
+      },
+      {
+        "id": "48",
+        "name": "Desolate Gully"
+      },
+      {
+        "id": "49",
+        "name": "Cake Day"
+      },
+      {
+        "id": "50",
+        "name": "Kaldr"
+      },
+      {
+        "id": "51",
+        "name": "The Arena: Redux"
+      },
+      {
+        "id": "52",
+        "name": "Concourse"
+      },
+      {
+        "id": "53",
+        "name": "Banana Unsplit"
+      },
+      {
+        "id": "54",
+        "name": "Battle of Tenjin 2"
+      },
+      {
+        "id": "55",
+        "name": "Justice"
+      },
+      {
+        "id": "56",
+        "name": "Inheritance"
+      },
+      {
+        "id": "57",
+        "name": "Storm"
+      },
+      {
+        "id": "58",
+        "name": "OutCast"
+      },
+      {
+        "id": "59",
+        "name": "Rotten"
+      },
+      {
+        "id": "60",
+        "name": "Seahold"
+      },
+      {
+        "id": "61",
+        "name": "Relic"
+      },
+      {
+        "id": "62",
+        "name": "Tahiti"
+      },
+      {
+        "id": "63",
+        "name": "Babylon"
+      },
+      {
+        "id": "64",
+        "name": "Agrostid"
+      },
+      {
+        "id": "65",
+        "name": "Lava Dew"
+      },
+      {
+        "id": "66",
+        "name": "Molendinis"
+      },
+      {
+        "id": "67",
+        "name": "Wedgesome II"
+      },
+      {
+        "id": "68",
+        "name": "Titan"
+      },
+      {
+        "id": "69",
+        "name": "Pharaoh&#39;s Palace"
+      },
+      {
+        "id": "70",
+        "name": "Quarry"
+      },
+      {
+        "id": "71",
+        "name": "Golden Drought IV"
+      },
+      {
+        "id": "72",
+        "name": "Golden Drought: TE"
+      },
+      {
+        "id": "73",
+        "name": "Golden Drought III"
+      },
+      {
+        "id": "74",
+        "name": "Wit&#39;s End II"
+      },
+      {
+        "id": "75",
+        "name": "Verdant Corridors"
+      },
+      {
+        "id": "76",
+        "name": "Golden Drought III: TE"
+      },
+      {
+        "id": "77",
+        "name": "Fractal Descent TE"
+      },
+      {
+        "id": "78",
+        "name": "Mini Drought"
+      },
+      {
+        "id": "79",
+        "name": "Ring Race"
+      },
+      {
+        "id": "80",
+        "name": "Callorbus"
+      },
+      {
+        "id": "81",
+        "name": "Siege"
+      },
+      {
+        "id": "82",
+        "name": "Hydrolock"
+      },
+      {
+        "id": "83",
+        "name": "Quench"
+      },
+      {
+        "id": "84",
+        "name": "Hyral Skylands"
+      },
+      {
+        "id": "85",
+        "name": "Chunk Clash !BETA!"
+      },
+      {
+        "id": "86",
+        "name": "Battleship Halberd"
+      },
+      {
+        "id": "87",
+        "name": "Autunno"
+      },
+      {
+        "id": "88",
+        "name": "Lost Woods"
+      },
+      {
+        "id": "89",
+        "name": "TAR Gingerbread Land 2"
+      },
+      {
+        "id": "90",
+        "name": "Ping Bomb II"
+      },
+      {
+        "id": "91",
+        "name": "State of Decay II"
+      },
+      {
+        "id": "92",
+        "name": "The Old Texas"
+      },
+      {
+        "id": "93",
+        "name": "Hot Dam: Mini"
+      },
+      {
+        "id": "94",
+        "name": "Nucleus"
+      },
+      {
+        "id": "95",
+        "name": "Pipe Factory"
+      },
+      {
+        "id": "96",
+        "name": "Battle of Lyndanisse"
+      },
+      {
+        "id": "97",
+        "name": "Death Death"
+      },
+      {
+        "id": "98",
+        "name": "Empired"
+      },
+      {
+        "id": "99",
+        "name": "PentaMill"
+      },
+      {
+        "id": "100",
+        "name": "Afflicted"
+      },
+      {
+        "id": "101",
+        "name": "Haunted Corridors"
+      },
+      {
+        "id": "102",
+        "name": "Modern Cityscape"
+      },
+      {
+        "id": "103",
+        "name": "Astro"
+      },
+      {
+        "id": "104",
+        "name": "Blocks II"
+      },
+      {
+        "id": "105",
+        "name": "Cannon Duel"
+      },
+      {
+        "id": "106",
+        "name": "Crossfire"
+      },
+      {
+        "id": "107",
+        "name": "Twisted"
+      },
+      {
+        "id": "108",
+        "name": "Moonlight Summit"
+      },
+      {
+        "id": "109",
+        "name": "Tree of Life: Mini"
+      },
+      {
+        "id": "110",
+        "name": "Dynamo"
+      },
+      {
+        "id": "111",
+        "name": "Retaliation 2"
+      },
+      {
+        "id": "112",
+        "name": "A Journey Through History"
+      },
+      {
+        "id": "113",
+        "name": "Khaba"
+      },
+      {
+        "id": "114",
+        "name": "Airship Ascendance"
+      },
+      {
+        "id": "115",
+        "name": "Battle Ecliptica II"
+      },
+      {
+        "id": "116",
+        "name": "Piston KoTH"
+      },
+      {
+        "id": "117",
+        "name": "Lamanai"
+      },
+      {
+        "id": "118",
+        "name": "Streamline II"
+      },
+      {
+        "id": "119",
+        "name": "Bessemer&#39;s Process"
+      },
+      {
+        "id": "120",
+        "name": "Jungle Beat"
+      },
+      {
+        "id": "121",
+        "name": "Library DTE"
+      },
+      {
+        "id": "122",
+        "name": "Last Overcastian"
+      },
+      {
+        "id": "123",
+        "name": "Coral Reef II"
+      },
+      {
+        "id": "124",
+        "name": "Abudor"
+      },
+      {
+        "id": "125",
+        "name": "Balloon Archipelago"
+      },
+      {
+        "id": "126",
+        "name": "Greed"
+      },
+      {
+        "id": "127",
+        "name": "Build: Parkour"
+      },
+      {
+        "id": "128",
+        "name": "Warlock CTF"
+      },
+      {
+        "id": "129",
+        "name": "Battle Ecliptica II: TE"
+      },
+      {
+        "id": "130",
+        "name": "Scala"
+      },
+      {
+        "id": "131",
+        "name": "Rage Quit"
+      },
+      {
+        "id": "132",
+        "name": "The City"
+      },
+      {
+        "id": "133",
+        "name": "Rig"
+      },
+      {
+        "id": "134",
+        "name": "Blocks: Destroy the Dynamite"
+      },
+      {
+        "id": "135",
+        "name": "Whiteout"
+      },
+      {
+        "id": "136",
+        "name": "Antiquis"
+      },
+      {
+        "id": "137",
+        "name": "Hadron"
+      },
+      {
+        "id": "138",
+        "name": "Les"
+      },
+      {
+        "id": "139",
+        "name": "Boom"
+      },
+      {
+        "id": "140",
+        "name": "Icebound"
+      },
+      {
+        "id": "141",
+        "name": "Checkmate"
+      },
+      {
+        "id": "142",
+        "name": "Cavum"
+      },
+      {
+        "id": "143",
+        "name": "Infernal Shadow"
+      },
+      {
+        "id": "144",
+        "name": "Ces"
+      },
+      {
+        "id": "145",
+        "name": "Mistforge"
+      },
+      {
+        "id": "146",
+        "name": "Ping Bomb"
+      },
+      {
+        "id": "147",
+        "name": "Placid Spring"
+      },
+      {
+        "id": "148",
+        "name": "Aerst Grove"
+      },
+      {
+        "id": "149",
+        "name": "Forest Shadows"
+      },
+      {
+        "id": "150",
+        "name": "Utopia"
+      },
+      {
+        "id": "151",
+        "name": "Irongate Harbor"
+      },
+      {
+        "id": "152",
+        "name": "Palmetto City CTW"
+      },
+      {
+        "id": "153",
+        "name": "Tebulas"
+      },
+      {
+        "id": "154",
+        "name": "Stonehaven"
+      },
+      {
+        "id": "155",
+        "name": "Unity"
+      },
+      {
+        "id": "156",
+        "name": "Cathedral"
+      },
+      {
+        "id": "157",
+        "name": "Hype Train"
+      },
+      {
+        "id": "158",
+        "name": "Arid Crossroads"
+      },
+      {
+        "id": "159",
+        "name": "Wit&#39;s Ending"
+      },
+      {
+        "id": "160",
+        "name": "Battle Ecliptica CTF"
+      },
+      {
+        "id": "161",
+        "name": "Long Shot: Elytra"
+      },
+      {
+        "id": "162",
+        "name": "Lazer Tag: Facility"
+      },
+      {
+        "id": "163",
+        "name": "The Amazing Race"
+      },
+      {
+        "id": "164",
+        "name": "Fallen Courtyard"
+      },
+      {
+        "id": "165",
+        "name": "Banshee Gardens"
+      },
+      {
+        "id": "166",
+        "name": "Thundershock"
+      },
+      {
+        "id": "167",
+        "name": "Retaliation"
+      },
+      {
+        "id": "168",
+        "name": "The Wonders of the World"
+      },
+      {
+        "id": "169",
+        "name": "Limbo"
+      },
+      {
+        "id": "170",
+        "name": "Fracture"
+      },
+      {
+        "id": "171",
+        "name": "Kings and Queens"
+      },
+      {
+        "id": "172",
+        "name": "Exitium"
+      },
+      {
+        "id": "173",
+        "name": "Aerolock"
+      },
+      {
+        "id": "174",
+        "name": "Stampede"
+      },
+      {
+        "id": "175",
+        "name": "SolitudeMC"
+      },
+      {
+        "id": "176",
+        "name": "Tree of Life"
+      },
+      {
+        "id": "177",
+        "name": "Wintery Cabin"
+      },
+      {
+        "id": "178",
+        "name": "Hydrolock II"
+      },
+      {
+        "id": "179",
+        "name": "Dry Gulch"
+      },
+      {
+        "id": "180",
+        "name": "Crenel"
+      },
+      {
+        "id": "181",
+        "name": "Mystic Point"
+      },
+      {
+        "id": "182",
+        "name": "Townside"
+      },
+      {
+        "id": "183",
+        "name": "Arid Gold Land"
+      },
+      {
+        "id": "184",
+        "name": "Icescar"
+      },
+      {
+        "id": "185",
+        "name": "TF2: Badlands CTF"
+      },
+      {
+        "id": "186",
+        "name": "Turf Wars"
+      },
+      {
+        "id": "187",
+        "name": "Avalon Funland"
+      },
+      {
+        "id": "188",
+        "name": "Escensio"
+      },
+      {
+        "id": "189",
+        "name": "Abudor II"
+      },
+      {
+        "id": "190",
+        "name": "Biomes"
+      },
+      {
+        "id": "191",
+        "name": "Dangerous Cargo"
+      },
+      {
+        "id": "192",
+        "name": "Spinal Vertigo"
+      },
+      {
+        "id": "193",
+        "name": "Full Salvo"
+      },
+      {
+        "id": "194",
+        "name": "Soviet Mills"
+      },
+      {
+        "id": "195",
+        "name": "Clay Clay Wars"
+      },
+      {
+        "id": "196",
+        "name": "Underpass"
+      },
+      {
+        "id": "197",
+        "name": "BoomBox"
+      },
+      {
+        "id": "198",
+        "name": "Chemical Reaction"
+      },
+      {
+        "id": "199",
+        "name": "No Return"
+      },
+      {
+        "id": "200",
+        "name": "Ranger Outpost"
+      },
+      {
+        "id": "201",
+        "name": "Bliss"
+      },
+      {
+        "id": "202",
+        "name": "Streamline"
+      },
+      {
+        "id": "203",
+        "name": "Trail Mix"
+      },
+      {
+        "id": "204",
+        "name": "Two Castles"
+      },
+      {
+        "id": "205",
+        "name": "Long Shot"
+      },
+      {
+        "id": "206",
+        "name": "Coral Reef"
+      },
+      {
+        "id": "207",
+        "name": "Battle Ecliptica IV"
+      },
+      {
+        "id": "208",
+        "name": "Fallencrests 2"
+      },
+      {
+        "id": "209",
+        "name": "Roar"
+      },
+      {
+        "id": "210",
+        "name": "Empire"
+      },
+      {
+        "id": "211",
+        "name": "Woodwork Harbor"
+      },
+      {
+        "id": "212",
+        "name": "Wedgesome II Mini"
+      },
+      {
+        "id": "213",
+        "name": "The Fenland CTF"
+      },
+      {
+        "id": "214",
+        "name": "TF2: Badlands"
+      },
+      {
+        "id": "215",
+        "name": "Fort Aqua"
+      },
+      {
+        "id": "216",
+        "name": "Hallcrest"
+      },
+      {
+        "id": "217",
+        "name": "Deepwind Jungle"
+      },
+      {
+        "id": "218",
+        "name": "CotBot"
+      },
+      {
+        "id": "219",
+        "name": "Rush Wars Tournament 2 Attack of the Defenders"
+      },
+      {
+        "id": "220",
+        "name": "Aerobellum"
+      },
+      {
+        "id": "221",
+        "name": "Battle of Krehm"
+      },
+      {
+        "id": "222",
+        "name": "Industrial Citadel"
+      },
+      {
+        "id": "223",
+        "name": "Air Arena"
+      },
+      {
+        "id": "224",
+        "name": "Emerald Canopy"
+      },
+      {
+        "id": "225",
+        "name": "Pixel Run"
+      },
+      {
+        "id": "226",
+        "name": "Aequabilis"
+      },
+      {
+        "id": "227",
+        "name": "Pontifex"
+      },
+      {
+        "id": "228",
+        "name": "Ender Blast"
+      },
+      {
+        "id": "229",
+        "name": "Northlands"
+      },
+      {
+        "id": "230",
+        "name": "Mayan Apocalypse"
+      },
+      {
+        "id": "231",
+        "name": "Battle Ecliptica II: Blitz"
+      },
+      {
+        "id": "232",
+        "name": "Arodisae"
+      },
+      {
+        "id": "233",
+        "name": "Zen"
+      },
+      {
+        "id": "234",
+        "name": "Hopeshire"
+      },
+      {
+        "id": "235",
+        "name": "Sunburn"
+      },
+      {
+        "id": "236",
+        "name": "Battle of Tenjin III"
+      },
+      {
+        "id": "237",
+        "name": "Battle of Tenjin"
+      },
+      {
+        "id": "238",
+        "name": "Broken Unity"
+      },
+      {
+        "id": "239",
+        "name": "DATAcenter"
+      },
+      {
+        "id": "240",
+        "name": "DATAbase"
+      },
+      {
+        "id": "241",
+        "name": "DATAbasin"
+      },
+      {
+        "id": "242",
+        "name": "NextGen"
+      },
+      {
+        "id": "243",
+        "name": "AstroGEN"
+      },
+      {
+        "id": "244",
+        "name": "DATAstation"
+      },
+      {
+        "id": "245",
+        "name": "DATAcenter II"
+      },
+      {
+        "id": "246",
+        "name": "Sequential"
+      },
+      {
+        "id": "247",
+        "name": "cos^2(tnt)"
+      },
+      {
+        "id": "248",
+        "name": "cos(tnt)"
+      },
+      {
+        "id": "249",
+        "name": "Riverside"
+      },
+      {
+        "id": "250",
+        "name": "Metallicus"
+      },
+      {
+        "id": "251",
+        "name": "Assault"
+      },
+      {
+        "id": "252",
+        "name": "Canopy"
+      },
+      {
+        "id": "253",
+        "name": "Quavilla"
+      },
+      {
+        "id": "254",
+        "name": "Directrix on Ice"
+      },
+      {
+        "id": "255",
+        "name": "NextGen(PUB)"
+      },
+      {
+        "id": "256",
+        "name": "NextGen TE"
+      },
+      {
+        "id": "257",
+        "name": "NextGen (Drop)"
+      },
+      {
+        "id": "258",
+        "name": "NextGen+"
+      },
+      {
+        "id": "259",
+        "name": "NextGen+ (test map)"
+      },
+      {
+        "id": "260",
+        "name": "PrevGen+ (test)"
+      },
+      {
+        "id": "261",
+        "name": "PrevGen+"
+      },
+      {
+        "id": "262",
+        "name": "PrevGen+ (you better actually defend this time)"
+      },
+      {
+        "id": "263",
+        "name": "HalfGen+ (test map)"
+      },
+      {
+        "id": "264",
+        "name": "HalfGen+"
+      },
+      {
+        "id": "265",
+        "name": "HalfGen+ (test)"
+      },
+      {
+        "id": "266",
+        "name": "Blossom Falls"
+      },
+      {
+        "id": "267",
+        "name": "BR: Classic"
+      },
+      {
+        "id": "268",
+        "name": "Watch Your Step"
+      },
+      {
+        "id": "269",
+        "name": "Hand of God"
+      },
+      {
+        "id": "270",
+        "name": "Pride"
+      },
+      {
+        "id": "271",
+        "name": "Ice Miners"
+      },
+      {
+        "id": "272",
+        "name": "Netherrage"
+      },
+      {
+        "id": "273",
+        "name": "Dynamight Versus"
+      },
+      {
+        "id": "274",
+        "name": "Juggernaut&#39;s Hall"
+      },
+      {
+        "id": "275",
+        "name": "Battleship"
+      },
+      {
+        "id": "276",
+        "name": "Firesand Survival"
+      },
+      {
+        "id": "277",
+        "name": "Ravine"
+      },
+      {
+        "id": "278",
+        "name": "Creep Slap"
+      },
+      {
+        "id": "279",
+        "name": "Wonderland"
+      },
+      {
+        "id": "280",
+        "name": "Alien"
+      },
+      {
+        "id": "281",
+        "name": "Puddin&#39; Pops"
+      },
+      {
+        "id": "282",
+        "name": "Juggernaut&#39;s Hamlet"
+      },
+      {
+        "id": "283",
+        "name": "Ghost Spleef"
+      },
+      {
+        "id": "284",
+        "name": "Juggernaut&#39;s Village"
+      },
+      {
+        "id": "285",
+        "name": "Infinite"
+      },
+      {
+        "id": "286",
+        "name": "Sugar Cane Valley"
+      },
+      {
+        "id": "287",
+        "name": "Blossom Falls: Elytra KotF"
+      },
+      {
+        "id": "288",
+        "name": "The High Road"
+      },
+      {
+        "id": "289",
+        "name": "Infection: Bill&#39;s Town"
+      },
+      {
+        "id": "290",
+        "name": "Tree Clamber"
+      },
+      {
+        "id": "291",
+        "name": "Sheep Scramble"
+      },
+      {
+        "id": "292",
+        "name": "Cairo Blitz"
+      },
+      {
+        "id": "293",
+        "name": "Sunrise Over Paradise"
+      },
+      {
+        "id": "294",
+        "name": "Race for Victory: Redux"
+      },
+      {
+        "id": "295",
+        "name": "Lost World: CTP"
+      },
+      {
+        "id": "296",
+        "name": "Rift II"
+      },
+      {
+        "id": "297",
+        "name": "Boom TE"
+      },
+      {
+        "id": "298",
+        "name": "Cake Wars TE"
+      },
+      {
+        "id": "299",
+        "name": "Bastion Hill CTF"
+      },
+      {
+        "id": "300",
+        "name": "Iris DTC"
+      },
+      {
+        "id": "301",
+        "name": "Lazre"
+      },
+      {
+        "id": "302",
+        "name": "Bastion Hill"
+      },
+      {
+        "id": "303",
+        "name": "Sunrise Over Lava"
+      },
+      {
+        "id": "304",
+        "name": "Monument Valley"
+      },
+      {
+        "id": "305",
+        "name": "Cake Wars"
+      },
+      {
+        "id": "306",
+        "name": "The Complex RAGE"
+      },
+      {
+        "id": "307",
+        "name": "Ozone Blitz"
+      },
+      {
+        "id": "308",
+        "name": "Sky Traffic"
+      },
+      {
+        "id": "309",
+        "name": "Ozone: Elytra"
+      },
+      {
+        "id": "310",
+        "name": "Block Fortress"
+      },
+      {
+        "id": "311",
+        "name": "Athirk"
+      },
+      {
+        "id": "312",
+        "name": "Ozone EndeRAGE"
+      },
+      {
+        "id": "313",
+        "name": "Boom Ranked"
+      },
+      {
+        "id": "314",
+        "name": "Lost World: CTF"
+      },
+      {
+        "id": "315",
+        "name": "Iris DTM"
+      },
+      {
+        "id": "316",
+        "name": "Interitus"
+      },
+      {
+        "id": "317",
+        "name": "BlockBlock"
+      },
+      {
+        "id": "318",
+        "name": "Cake Wars Ranked"
+      },
+      {
+        "id": "319",
+        "name": "Cake Wars 3"
+      },
+      {
+        "id": "320",
+        "name": "Total War"
+      },
+      {
+        "id": "321",
+        "name": "Sky Traffic 2"
+      },
+      {
+        "id": "322",
+        "name": "The Complex CTF"
+      },
+      {
+        "id": "323",
+        "name": "Race for Victory 4"
+      },
+      {
+        "id": "324",
+        "name": "Rift TDM"
+      },
+      {
+        "id": "325",
+        "name": "Rift: Blitz"
+      },
+      {
+        "id": "326",
+        "name": "Infection: Lost World"
+      },
+      {
+        "id": "327",
+        "name": "Dry Wound"
+      },
+      {
+        "id": "328",
+        "name": "Harb KoTF"
+      },
+      {
+        "id": "329",
+        "name": "Cairo TDM"
+      },
+      {
+        "id": "330",
+        "name": "No Man&#39;s Land"
+      },
+      {
+        "id": "331",
+        "name": "The Complex Elytra"
+      },
+      {
+        "id": "332",
+        "name": "Harb"
+      },
+      {
+        "id": "333",
+        "name": "Ozone"
+      },
+      {
+        "id": "334",
+        "name": "Rift"
+      },
+      {
+        "id": "335",
+        "name": "Ladderp"
+      },
+      {
+        "id": "336",
+        "name": "Spaceship Battles TE"
+      },
+      {
+        "id": "337",
+        "name": "Totally War II"
+      },
+      {
+        "id": "338",
+        "name": "Greenhouse"
+      },
+      {
+        "id": "339",
+        "name": "Fortress Battles"
+      },
+      {
+        "id": "340",
+        "name": "Ladderp II"
+      },
+      {
+        "id": "341",
+        "name": "BlockBlock: Elytra"
+      },
+      {
+        "id": "342",
+        "name": "Race for Victory"
+      },
+      {
+        "id": "343",
+        "name": "Renaissance"
+      },
+      {
+        "id": "344",
+        "name": "Warp Pocket"
+      },
+      {
+        "id": "345",
+        "name": "The Complex TDM"
+      },
+      {
+        "id": "346",
+        "name": "The Complex"
+      },
+      {
+        "id": "347",
+        "name": "Airship Aces"
+      },
+      {
+        "id": "348",
+        "name": "Fields of Glory"
+      },
+      {
+        "id": "349",
+        "name": "Survival Hills"
+      },
+      {
+        "id": "350",
+        "name": "Coastline"
+      },
+      {
+        "id": "351",
+        "name": "Desert Country"
+      },
+      {
+        "id": "352",
+        "name": "Build: Dropper"
+      },
+      {
+        "id": "353",
+        "name": "Equus"
+      },
+      {
+        "id": "354",
+        "name": "Burana"
+      },
+      {
+        "id": "355",
+        "name": "Burana II"
+      },
+      {
+        "id": "356",
+        "name": "Brisked"
+      },
+      {
+        "id": "357",
+        "name": "Arch"
+      },
+      {
+        "id": "358",
+        "name": "Trinus"
+      },
+      {
+        "id": "359",
+        "name": "Frontier"
+      },
+      {
+        "id": "360",
+        "name": "Snowy Frontier"
+      },
+      {
+        "id": "361",
+        "name": "Mapamundi"
+      },
+      {
+        "id": "362",
+        "name": "Split"
+      },
+      {
+        "id": "363",
+        "name": "Bill&#39;s Town OiTC"
+      },
+      {
+        "id": "364",
+        "name": "LT Facility OiTC"
+      },
+      {
+        "id": "365",
+        "name": "Organic"
+      },
+      {
+        "id": "366",
+        "name": "Wrap"
+      },
+      {
+        "id": "367",
+        "name": "Streamline DTM"
+      },
+      {
+        "id": "368",
+        "name": "Autunno: Elytra"
+      },
+      {
+        "id": "369",
+        "name": "Green Hill Zone"
+      },
+      {
+        "id": "370",
+        "name": "Riverbank"
+      },
+      {
+        "id": "371",
+        "name": "Curly Wools"
+      },
+      {
+        "id": "372",
+        "name": "Sunrise Over Nothing"
+      },
+      {
+        "id": "373",
+        "name": "Fracture DTM"
+      },
+      {
+        "id": "374",
+        "name": "Chimeric"
+      },
+      {
+        "id": "375",
+        "name": "SuperPRISM"
+      },
+      {
+        "id": "376",
+        "name": "4K"
+      },
+      {
+        "id": "377",
+        "name": "CatalystCP"
+      },
+      {
+        "id": "378",
+        "name": "CatalystMC Blitz"
+      },
+      {
+        "id": "379",
+        "name": "Dust CTF"
+      },
+      {
+        "id": "380",
+        "name": "Dust: Blitz"
+      },
+      {
+        "id": "381",
+        "name": "Hanger"
+      },
+      {
+        "id": "382",
+        "name": "Strike"
+      },
+      {
+        "id": "383",
+        "name": "SuperCUBE"
+      },
+      {
+        "id": "384",
+        "name": "Snow"
+      },
+      {
+        "id": "385",
+        "name": "Dust"
+      },
+      {
+        "id": "386",
+        "name": "SuperHALLOW"
+      },
+      {
+        "id": "387",
+        "name": "Snow: Blitz"
+      },
+      {
+        "id": "388",
+        "name": "Ranch"
+      },
+      {
+        "id": "389",
+        "name": "Nutrient"
+      },
+      {
+        "id": "390",
+        "name": "Artemis"
+      },
+      {
+        "id": "391",
+        "name": "Fallout"
+      },
+      {
+        "id": "392",
+        "name": "Toss Up"
+      },
+      {
+        "id": "393",
+        "name": "Winter Wakening"
+      },
+      {
+        "id": "394",
+        "name": "Guarded Coast KoTF"
+      },
+      {
+        "id": "395",
+        "name": "Oaken Meadow"
+      },
+      {
+        "id": "396",
+        "name": "Woodlands"
+      },
+      {
+        "id": "397",
+        "name": "Xion"
+      },
+      {
+        "id": "398",
+        "name": "Everlasting"
+      },
+      {
+        "id": "399",
+        "name": "Thorns"
+      },
+      {
+        "id": "400",
+        "name": "Vinebay"
+      },
+      {
+        "id": "401",
+        "name": "Snowfall"
+      },
+      {
+        "id": "402",
+        "name": "Hillcity"
+      },
+      {
+        "id": "403",
+        "name": "Opal"
+      },
+      {
+        "id": "404",
+        "name": "Thunderstorm"
+      },
+      {
+        "id": "405",
+        "name": "BR: Racers"
+      },
+      {
+        "id": "406",
+        "name": "Rooted"
+      },
+      {
+        "id": "407",
+        "name": "Thunder"
+      },
+      {
+        "id": "408",
+        "name": "Coniferous Forest KoTH"
+      },
+      {
+        "id": "409",
+        "name": "Thorns II"
+      },
+      {
+        "id": "410",
+        "name": "Fruhling"
+      },
+      {
+        "id": "411",
+        "name": "Sentio"
+      },
+      {
+        "id": "412",
+        "name": "Coniferous Forest"
+      },
+      {
+        "id": "413",
+        "name": "Drastic Change"
+      },
+      {
+        "id": "414",
+        "name": "The Lost Arcade"
+      },
+      {
+        "id": "415",
+        "name": "Trirectra 1"
+      },
+      {
+        "id": "416",
+        "name": "Lost Civilization"
+      },
+      {
+        "id": "417",
+        "name": "Paladin Banners II"
+      },
+      {
+        "id": "418",
+        "name": "Paladin Banners"
+      },
+      {
+        "id": "419",
+        "name": "Mystic Gully"
+      },
+      {
+        "id": "420",
+        "name": "Sugar Rush"
+      },
+      {
+        "id": "421",
+        "name": "Serengeti"
+      },
+      {
+        "id": "422",
+        "name": "Bastion"
+      },
+      {
+        "id": "423",
+        "name": "Cabin Fever"
+      },
+      {
+        "id": "424",
+        "name": "Cabin Fever II"
+      },
+      {
+        "id": "425",
+        "name": "Spooktober"
+      },
+      {
+        "id": "426",
+        "name": "Tick Tock Clock"
+      },
+      {
+        "id": "427",
+        "name": "Uchiura"
+      },
+      {
+        "id": "428",
+        "name": "Icebliss"
+      },
+      {
+        "id": "429",
+        "name": "Desert Cataract"
+      },
+      {
+        "id": "430",
+        "name": "Funerea"
+      },
+      {
+        "id": "431",
+        "name": "Empireder"
+      },
+      {
+        "id": "432",
+        "name": "Dandelion II"
+      },
+      {
+        "id": "433",
+        "name": "Sunrise Over Sunrise Over Paradise"
+      },
+      {
+        "id": "434",
+        "name": "Spaceship Battles: Blitz"
+      },
+      {
+        "id": "435",
+        "name": "Spaceship Battles II"
+      },
+      {
+        "id": "436",
+        "name": "SSB Halloween"
+      },
+      {
+        "id": "437",
+        "name": "Spaceship Battles"
+      },
+      {
+        "id": "438",
+        "name": "Grenouille de l’armée"
+      },
+      {
+        "id": "439",
+        "name": "The Campgrounds"
+      },
+      {
+        "id": "440",
+        "name": "Tower Blast"
+      },
+      {
+        "id": "441",
+        "name": "Boat Blitz"
+      },
+      {
+        "id": "442",
+        "name": "Xyth II King"
+      },
+      {
+        "id": "443",
+        "name": "Tribe"
+      },
+      {
+        "id": "444",
+        "name": "Ender-Fortress"
+      },
+      {
+        "id": "445",
+        "name": "Pond"
+      },
+      {
+        "id": "446",
+        "name": "Boulders"
+      },
+      {
+        "id": "447",
+        "name": "Trapp"
+      },
+      {
+        "id": "448",
+        "name": "Dorreak"
+      },
+      {
+        "id": "449",
+        "name": "Verlate"
+      },
+      {
+        "id": "450",
+        "name": "The Hills"
+      },
+      {
+        "id": "451",
+        "name": "Three Choices"
+      },
+      {
+        "id": "452",
+        "name": "Curly Wools II"
+      },
+      {
+        "id": "453",
+        "name": "Mijuku"
+      },
+      {
+        "id": "454",
+        "name": "Jactus"
+      },
+      {
+        "id": "455",
+        "name": "Grenouille de l&#39;armee"
+      },
+      {
+        "id": "456",
+        "name": "Bamboo Valley II"
+      },
+      {
+        "id": "457",
+        "name": "Bamboo Valley III"
+      },
+      {
+        "id": "458",
+        "name": "Totem"
+      },
+      {
+        "id": "459",
+        "name": "Build: Duel Arena"
+      },
+      {
+        "id": "460",
+        "name": "Race for Victory 3 - 2"
+      },
+      {
+        "id": "461",
+        "name": "Snowy Warlock"
+      },
+      {
+        "id": "462",
+        "name": "Chunk Clash !THETA!"
+      },
+      {
+        "id": "463",
+        "name": "Minecraft Royale"
+      },
+      {
+        "id": "464",
+        "name": "Minecraft Royale: Standard"
+      },
+      {
+        "id": "465",
+        "name": "Pand"
+      },
+      {
+        "id": "466",
+        "name": "Minecraft Royale: Clockwork"
+      },
+      {
+        "id": "467",
+        "name": "Minecraft Royale: Classic"
+      },
+      {
+        "id": "468",
+        "name": "ChessBoard"
+      },
+      {
+        "id": "469",
+        "name": "Enarmonia"
+      },
+      {
+        "id": "470",
+        "name": "Battle Ecliptica IV.V"
+      },
+      {
+        "id": "471",
+        "name": "Vineyard"
+      },
+      {
+        "id": "472",
+        "name": "St. Carrotfields: FFA"
+      },
+      {
+        "id": "473",
+        "name": "Summer Garden"
+      },
+      {
+        "id": "474",
+        "name": "Summer Exploration"
+      },
+      {
+        "id": "475",
+        "name": "Vengeance"
+      },
+      {
+        "id": "476",
+        "name": "Hodran"
+      },
+      {
+        "id": "477",
+        "name": "Rainbow Road"
+      },
+      {
+        "id": "478",
+        "name": "Gridlock 2"
+      },
+      {
+        "id": "479",
+        "name": "Solitude"
+      },
+      {
+        "id": "480",
+        "name": "Larnia"
+      },
+      {
+        "id": "481",
+        "name": "Cyril"
+      },
+      {
+        "id": "482",
+        "name": "Gyroid"
+      },
+      {
+        "id": "483",
+        "name": "Fairy Tales 2: Mini"
+      },
+      {
+        "id": "484",
+        "name": "Boletum"
+      },
+      {
+        "id": "485",
+        "name": "Glina"
+      },
+      {
+        "id": "486",
+        "name": "Earth Day"
+      },
+      {
+        "id": "487",
+        "name": "Anicetus"
+      },
+      {
+        "id": "488",
+        "name": "Impetus"
+      },
+      {
+        "id": "489",
+        "name": "Space Race: 1969"
+      },
+      {
+        "id": "490",
+        "name": "Foundry"
+      },
+      {
+        "id": "491",
+        "name": "Smoke"
+      },
+      {
+        "id": "492",
+        "name": "Warehouse 2"
+      },
+      {
+        "id": "493",
+        "name": "Horseshoe Ranch"
+      },
+      {
+        "id": "494",
+        "name": "Thicket"
+      },
+      {
+        "id": "495",
+        "name": "Nirow"
+      },
+      {
+        "id": "496",
+        "name": "AstroJug"
+      },
+      {
+        "id": "497",
+        "name": "Ants DTM"
+      },
+      {
+        "id": "498",
+        "name": "Chunk Clash !GAMMA!"
+      },
+      {
+        "id": "499",
+        "name": "Ascendance 02"
+      },
+      {
+        "id": "500",
+        "name": "Griefer"
+      },
+      {
+        "id": "501",
+        "name": "Interitus TLoA"
+      },
+      {
+        "id": "502",
+        "name": "Tango"
+      },
+      {
+        "id": "503",
+        "name": "Bamboo Valley IV"
+      },
+      {
+        "id": "504",
+        "name": "Distorsion RageTDM"
+      },
+      {
+        "id": "505",
+        "name": "Glina Te Edit"
+      },
+      {
+        "id": "506",
+        "name": "The First Crusade"
+      },
+      {
+        "id": "507",
+        "name": "Scar"
+      },
+      {
+        "id": "508",
+        "name": "Airship Ascendance TE"
+      },
+      {
+        "id": "509",
+        "name": "Steppe"
+      },
+      {
+        "id": "510",
+        "name": "Riots TE"
+      },
+      {
+        "id": "511",
+        "name": "OllyLand"
+      },
+      {
+        "id": "512",
+        "name": "Interitus BC"
+      },
+      {
+        "id": "513",
+        "name": "Antaran"
+      },
+      {
+        "id": "514",
+        "name": "The Lost Arcade (Classes)"
+      },
+      {
+        "id": "515",
+        "name": "Muddy Paths"
+      },
+      {
+        "id": "516",
+        "name": "LachsFilet"
+      },
+      {
+        "id": "517",
+        "name": "Griefer BGM"
+      },
+      {
+        "id": "518",
+        "name": "Minecraft Royale: Vice"
+      },
+      {
+        "id": "519",
+        "name": "Orb TE"
+      },
+      {
+        "id": "520",
+        "name": "Scarab"
+      },
+      {
+        "id": "521",
+        "name": "Silver Rain"
+      },
+      {
+        "id": "522",
+        "name": "Murta"
+      },
+      {
+        "id": "523",
+        "name": "Northrend"
+      },
+      {
+        "id": "524",
+        "name": "Warehouse 3"
+      },
+      {
+        "id": "525",
+        "name": "Mono 2"
+      },
+      {
+        "id": "526",
+        "name": "Escort Test Map"
+      },
+      {
+        "id": "527",
+        "name": "Kagami"
+      },
+      {
+        "id": "528",
+        "name": "Organic TE"
+      },
+      {
+        "id": "529",
+        "name": "Desert Sanctuary TE"
+      },
+      {
+        "id": "530",
+        "name": "Tetrad+"
+      },
+      {
+        "id": "531",
+        "name": "Artext TE"
+      },
+      {
+        "id": "532",
+        "name": "Highlands"
+      },
+      {
+        "id": "533",
+        "name": "Watchtower DTM TE edit"
+      },
+      {
+        "id": "534",
+        "name": "Larioth TE"
+      },
+      {
+        "id": "535",
+        "name": "Organic TE+"
+      },
+      {
+        "id": "536",
+        "name": "Ultra Twizz"
+      },
+      {
+        "id": "537",
+        "name": "Interitus HoC"
+      },
+      {
+        "id": "538",
+        "name": "Gobi"
+      },
+      {
+        "id": "539",
+        "name": "Wallop Too"
+      },
+      {
+        "id": "540",
+        "name": "Ring Race TE"
+      },
+      {
+        "id": "541",
+        "name": "Fortress Battles TE"
+      },
+      {
+        "id": "542",
+        "name": "Osprey"
+      },
+      {
+        "id": "543",
+        "name": "Organic TE Buckets"
+      },
+      {
+        "id": "544",
+        "name": "Wit&#39;s End [Ranked Version]"
+      },
+      {
+        "id": "545",
+        "name": "PersisLOW"
+      },
+      {
+        "id": "546",
+        "name": "TiNT Sploof"
+      },
+      {
+        "id": "547",
+        "name": "Cavern"
+      },
+      {
+        "id": "548",
+        "name": "Palmetto City Spleef"
+      },
+      {
+        "id": "549",
+        "name": "Clearcut"
+      },
+      {
+        "id": "550",
+        "name": "Bounding Deep"
+      },
+      {
+        "id": "551",
+        "name": "Trinity"
+      },
+      {
+        "id": "552",
+        "name": "Airship Battle"
+      },
+      {
+        "id": "553",
+        "name": "Grub"
+      },
+      {
+        "id": "554",
+        "name": "Humble Jungle"
+      },
+      {
+        "id": "555",
+        "name": "Pseudo"
+      },
+      {
+        "id": "556",
+        "name": "Pyradic"
+      },
+      {
+        "id": "557",
+        "name": "Clutter"
+      },
+      {
+        "id": "558",
+        "name": "U-Bahn"
+      },
+      {
+        "id": "559",
+        "name": "Orbit"
+      },
+      {
+        "id": "560",
+        "name": "Bliss TDM"
+      },
+      {
+        "id": "561",
+        "name": "Opis"
+      },
+      {
+        "id": "562",
+        "name": "Hellbound II"
+      },
+      {
+        "id": "563",
+        "name": "Diramu Stronghold"
+      },
+      {
+        "id": "564",
+        "name": "Ping Bomb TE"
+      },
+      {
+        "id": "565",
+        "name": "FlagFlag"
+      },
+      {
+        "id": "566",
+        "name": "Bamboo Valley V Edit"
+      },
+      {
+        "id": "567",
+        "name": "Spaceship Battles Limited Water"
+      },
+      {
+        "id": "568",
+        "name": "Factory"
+      },
+      {
+        "id": "569",
+        "name": "War Wars: Primed"
+      },
+      {
+        "id": "570",
+        "name": "Harb TE"
+      },
+      {
+        "id": "571",
+        "name": "Storm TE"
+      },
+      {
+        "id": "572",
+        "name": "Bamboo Valley V Edit 2"
+      },
+      {
+        "id": "573",
+        "name": "Fleet"
+      },
+      {
+        "id": "574",
+        "name": "Fleet PGM Test Grounds"
+      },
+      {
+        "id": "575",
+        "name": "Fleet: Divine Intervention"
+      },
+      {
+        "id": "576",
+        "name": "Wooly Woods"
+      },
+      {
+        "id": "577",
+        "name": "Exiled TE"
+      },
+      {
+        "id": "578",
+        "name": "Exiled"
+      },
+      {
+        "id": "579",
+        "name": "Clay Clay Wars: Lines"
+      },
+      {
+        "id": "580",
+        "name": "Ant Farm"
+      },
+      {
+        "id": "581",
+        "name": "Gravity Battles"
+      },
+      {
+        "id": "582",
+        "name": "Conquest: Hide from the Ogden"
+      },
+      {
+        "id": "583",
+        "name": "Dam Nation"
+      },
+      {
+        "id": "584",
+        "name": "Grenouille de l&#39;armee II"
+      },
+      {
+        "id": "585",
+        "name": "Icebliss: Tag"
+      },
+      {
+        "id": "586",
+        "name": "Circus TDM"
+      },
+      {
+        "id": "587",
+        "name": "Bam-BOO Valley"
+      },
+      {
+        "id": "588",
+        "name": "Spooky Garden DTC"
+      },
+      {
+        "id": "589",
+        "name": "Candy Cane Valley"
+      },
+      {
+        "id": "590",
+        "name": "Circus DTC"
+      },
+      {
+        "id": "591",
+        "name": "Circus DTC: Halloween"
+      },
+      {
+        "id": "592",
+        "name": "Circus CTW"
+      },
+      {
+        "id": "593",
+        "name": "Christmas Sanctuary"
+      },
+      {
+        "id": "594",
+        "name": "CotBot TDM"
+      },
+      {
+        "id": "595",
+        "name": "Glass Action"
+      },
+      {
+        "id": "596",
+        "name": "Harbor"
+      },
+      {
+        "id": "597",
+        "name": "Depths"
+      },
+      {
+        "id": "598",
+        "name": "Acear I"
+      },
+      {
+        "id": "599",
+        "name": "Acear II"
+      },
+      {
+        "id": "600",
+        "name": "Hoodoo"
+      },
+      {
+        "id": "601",
+        "name": "Nail"
+      },
+      {
+        "id": "602",
+        "name": "Nar"
+      },
+      {
+        "id": "603",
+        "name": "Stop The Boats"
+      },
+      {
+        "id": "604",
+        "name": "Day at the Alley"
+      },
+      {
+        "id": "605",
+        "name": "LavaRace DTC Tournament Map Competitive Minecraft PvP"
+      },
+      {
+        "id": "606",
+        "name": "Butterfly Garden"
+      },
+      {
+        "id": "607",
+        "name": "Mars Odyssey"
+      },
+      {
+        "id": "608",
+        "name": "Insanihe"
+      },
+      {
+        "id": "609",
+        "name": "Hilltop Haven"
+      },
+      {
+        "id": "610",
+        "name": "Haunted Forest"
+      },
+      {
+        "id": "611",
+        "name": "Glacial Impact"
+      },
+      {
+        "id": "612",
+        "name": "Soviet Chills"
+      },
+      {
+        "id": "613",
+        "name": "Glacial Impact 2"
+      },
+      {
+        "id": "614",
+        "name": "Hoodoo: Experience"
+      },
+      {
+        "id": "615",
+        "name": "Hoodoo test"
+      },
+      {
+        "id": "616",
+        "name": "PixelMix"
+      },
+      {
+        "id": "617",
+        "name": "PixelMix OG"
+      },
+      {
+        "id": "618",
+        "name": "Hoodoo flamebows"
+      },
+      {
+        "id": "619",
+        "name": "The Last Sunset"
+      },
+      {
+        "id": "620",
+        "name": "Ruediger&#39;s Garden"
+      },
+      {
+        "id": "621",
+        "name": "Hilltop Hideaway"
+      },
+      {
+        "id": "622",
+        "name": "Hemlock"
+      },
+      {
+        "id": "623",
+        "name": "Justice fix"
+      },
+      {
+        "id": "624",
+        "name": "Wit&#39;s Ending: BGM"
+      },
+      {
+        "id": "625",
+        "name": "Kamena"
+      },
+      {
+        "id": "626",
+        "name": "Stonehenge"
+      },
+      {
+        "id": "627",
+        "name": "Timberwood"
+      },
+      {
+        "id": "628",
+        "name": "Vanessa"
+      },
+      {
+        "id": "629",
+        "name": "Java"
+      },
+      {
+        "id": "630",
+        "name": "Watchtower"
+      },
+      {
+        "id": "631",
+        "name": "Pumpkin Spice Latte: Venti"
+      },
+      {
+        "id": "632",
+        "name": "Deadwater"
+      },
+      {
+        "id": "633",
+        "name": "Tropico: FFA"
+      },
+      {
+        "id": "634",
+        "name": "The Last Sunset II"
+      },
+      {
+        "id": "635",
+        "name": "Molten Crevasse"
+      },
+      {
+        "id": "636",
+        "name": "SpOOky Diamonds"
+      },
+      {
+        "id": "637",
+        "name": "Golden Gate"
+      },
+      {
+        "id": "638",
+        "name": "Garden of Tholos"
+      },
+      {
+        "id": "639",
+        "name": "Ethereal"
+      },
+      {
+        "id": "640",
+        "name": "Together"
+      },
+      {
+        "id": "641",
+        "name": "Spring Breeze"
+      },
+      {
+        "id": "642",
+        "name": "Frozen Market"
+      },
+      {
+        "id": "643",
+        "name": "Alas"
+      },
+      {
+        "id": "644",
+        "name": "Mansion"
+      },
+      {
+        "id": "645",
+        "name": "Grimsnes"
+      },
+      {
+        "id": "646",
+        "name": "Pompeii Mini"
+      },
+      {
+        "id": "647",
+        "name": "BR: Christmas"
+      },
+      {
+        "id": "648",
+        "name": "Howdy"
+      },
+      {
+        "id": "649",
+        "name": "Old Fortress Battles"
+      },
+      {
+        "id": "650",
+        "name": "Snow Wall"
+      },
+      {
+        "id": "651",
+        "name": "Penguin Pursuit"
+      },
+      {
+        "id": "652",
+        "name": "Academy"
+      },
+      {
+        "id": "653",
+        "name": "Hillside Mini"
+      },
+      {
+        "id": "654",
+        "name": "Aleppo"
+      },
+      {
+        "id": "655",
+        "name": "Paradiso"
+      },
+      {
+        "id": "656",
+        "name": "Chocolate Diamonds"
+      },
+      {
+        "id": "657",
+        "name": "Sand Wall"
+      },
+      {
+        "id": "658",
+        "name": "Precipice"
+      },
+      {
+        "id": "659",
+        "name": "The Grove"
+      },
+      {
+        "id": "660",
+        "name": "BR: Halloween"
+      },
+      {
+        "id": "661",
+        "name": "Asura"
+      },
+      {
+        "id": "662",
+        "name": "Government"
+      },
+      {
+        "id": "663",
+        "name": "Mansion: FFA"
+      },
+      {
+        "id": "664",
+        "name": "Infection: Rummage"
+      },
+      {
+        "id": "665",
+        "name": "Tropico"
+      },
+      {
+        "id": "666",
+        "name": "Lunar Crescent"
+      },
+      {
+        "id": "667",
+        "name": "Flag Run"
+      },
+      {
+        "id": "668",
+        "name": "Dwyer Hill"
+      },
+      {
+        "id": "669",
+        "name": "Fridge"
+      },
+      {
+        "id": "670",
+        "name": "Festive"
+      },
+      {
+        "id": "671",
+        "name": "Barr DTC"
+      },
+      {
+        "id": "672",
+        "name": "Strongbow"
+      },
+      {
+        "id": "673",
+        "name": "Bouncy Stadium"
+      },
+      {
+        "id": "674",
+        "name": "Aureola Rage"
+      },
+      {
+        "id": "675",
+        "name": "Villa"
+      },
+      {
+        "id": "676",
+        "name": "Watchtower TE"
+      },
+      {
+        "id": "677",
+        "name": "Connected Christmas"
+      },
+      {
+        "id": "678",
+        "name": "The Suburbs"
+      },
+      {
+        "id": "679",
+        "name": "Weirwood"
+      },
+      {
+        "id": "680",
+        "name": "Artext"
+      },
+      {
+        "id": "681",
+        "name": "Pompeii"
+      },
+      {
+        "id": "682",
+        "name": "Snowy Diamonds"
+      },
+      {
+        "id": "683",
+        "name": "Trigo"
+      },
+      {
+        "id": "684",
+        "name": "Watchtower DTM"
+      },
+      {
+        "id": "685",
+        "name": "Connected"
+      },
+      {
+        "id": "686",
+        "name": "DK Crossovers DTE"
+      },
+      {
+        "id": "687",
+        "name": "Explosive Vengeance"
+      },
+      {
+        "id": "688",
+        "name": "Frosty Stadium"
+      },
+      {
+        "id": "689",
+        "name": "Terminal Frost"
+      },
+      {
+        "id": "690",
+        "name": "Arabian Nightmare"
+      },
+      {
+        "id": "691",
+        "name": "Chimney Sweepers"
+      },
+      {
+        "id": "692",
+        "name": "After the War"
+      },
+      {
+        "id": "693",
+        "name": "Rage Maze"
+      },
+      {
+        "id": "694",
+        "name": "Aetheril"
+      },
+      {
+        "id": "695",
+        "name": "Limbo III"
+      },
+      {
+        "id": "696",
+        "name": "Aqua Royale"
+      },
+      {
+        "id": "697",
+        "name": "Cor Paravis"
+      },
+      {
+        "id": "698",
+        "name": "Revolution"
+      },
+      {
+        "id": "699",
+        "name": "Storm Ranked"
+      },
+      {
+        "id": "700",
+        "name": "Payload: Hoi"
+      },
+      {
+        "id": "701",
+        "name": "PT 3CP"
+      },
+      {
+        "id": "702",
+        "name": "Cold Aunder II"
+      },
+      {
+        "id": "703",
+        "name": "Anathema"
+      },
+      {
+        "id": "704",
+        "name": "Wallop Trees"
+      },
+      {
+        "id": "705",
+        "name": "Cold Aunder"
+      },
+      {
+        "id": "706",
+        "name": "Fumeen"
+      },
+      {
+        "id": "707",
+        "name": "Abstract"
+      },
+      {
+        "id": "708",
+        "name": "Aitutaki"
+      },
+      {
+        "id": "709",
+        "name": "Payload: Dao"
+      },
+      {
+        "id": "710",
+        "name": "Linked"
+      },
+      {
+        "id": "711",
+        "name": "Seafare"
+      },
+      {
+        "id": "712",
+        "name": "Heist"
+      },
+      {
+        "id": "713",
+        "name": "Black Gold"
+      },
+      {
+        "id": "714",
+        "name": "Beauty to Ashes"
+      },
+      {
+        "id": "715",
+        "name": "Trench Warfare 2"
+      },
+      {
+        "id": "716",
+        "name": "Levels"
+      },
+      {
+        "id": "717",
+        "name": "Cuckoo"
+      },
+      {
+        "id": "718",
+        "name": "Blocks CTW"
+      },
+      {
+        "id": "719",
+        "name": "Lights Out"
+      },
+      {
+        "id": "720",
+        "name": "Latch 2"
+      },
+      {
+        "id": "721",
+        "name": "Portal"
+      },
+      {
+        "id": "722",
+        "name": "Medieval Warfare"
+      },
+      {
+        "id": "723",
+        "name": "A Watery Grave"
+      },
+      {
+        "id": "724",
+        "name": "Bridge Over Troubled Water"
+      },
+      {
+        "id": "725",
+        "name": "Monastery Siege"
+      },
+      {
+        "id": "726",
+        "name": "Acropolis"
+      },
+      {
+        "id": "727",
+        "name": "Archer"
+      },
+      {
+        "id": "728",
+        "name": "Risky Waters"
+      },
+      {
+        "id": "729",
+        "name": "Bearing Point"
+      },
+      {
+        "id": "730",
+        "name": "Knights Of Osenden"
+      },
+      {
+        "id": "731",
+        "name": "Dune DTM"
+      },
+      {
+        "id": "732",
+        "name": "Midgard"
+      },
+      {
+        "id": "733",
+        "name": "Desert Country DTM"
+      },
+      {
+        "id": "734",
+        "name": "Kora"
+      },
+      {
+        "id": "735",
+        "name": "Drow&#39;s Crevice II"
+      },
+      {
+        "id": "736",
+        "name": "Kytriak (TE)"
+      },
+      {
+        "id": "737",
+        "name": "Masarin II"
+      },
+      {
+        "id": "738",
+        "name": "Kytriak"
+      },
+      {
+        "id": "739",
+        "name": "Smog"
+      },
+      {
+        "id": "740",
+        "name": "Pipe Palace"
+      },
+      {
+        "id": "741",
+        "name": "Swamped"
+      },
+      {
+        "id": "742",
+        "name": "Boolean"
+      },
+      {
+        "id": "743",
+        "name": "Vinebay TDM"
+      },
+      {
+        "id": "744",
+        "name": "Diamond Rush DTC"
+      },
+      {
+        "id": "745",
+        "name": "Omega DTC"
+      },
+      {
+        "id": "746",
+        "name": "Columbia"
+      },
+      {
+        "id": "747",
+        "name": "Jikan"
+      },
+      {
+        "id": "748",
+        "name": "Down Under"
+      },
+      {
+        "id": "749",
+        "name": "Heath"
+      },
+      {
+        "id": "750",
+        "name": "Divided"
+      },
+      {
+        "id": "751",
+        "name": "Pompeii DTC"
+      },
+      {
+        "id": "752",
+        "name": "Coastline Original"
+      },
+      {
+        "id": "753",
+        "name": "Coastline Duo"
+      },
+      {
+        "id": "754",
+        "name": "Dungeon Production"
+      },
+      {
+        "id": "755",
+        "name": "Kytriakk"
+      },
+      {
+        "id": "756",
+        "name": "The Crypt"
+      },
+      {
+        "id": "757",
+        "name": "Block DTC"
+      },
+      {
+        "id": "758",
+        "name": "Harvest"
+      },
+      {
+        "id": "759",
+        "name": "Dorreak Two : Coastal Assault"
+      },
+      {
+        "id": "760",
+        "name": "Pompeii DTC2"
+      },
+      {
+        "id": "761",
+        "name": "Aethril II"
+      },
+      {
+        "id": "762",
+        "name": "Dune DTM BGMP is bad"
+      },
+      {
+        "id": "763",
+        "name": "Bow Duel"
+      },
+      {
+        "id": "764",
+        "name": "Dune: indev"
+      },
+      {
+        "id": "765",
+        "name": "Rifter"
+      },
+      {
+        "id": "766",
+        "name": "Fractalia"
+      },
+      {
+        "id": "767",
+        "name": "Shoots"
+      },
+      {
+        "id": "768",
+        "name": "Erth"
+      },
+      {
+        "id": "769",
+        "name": "Larioth"
+      },
+      {
+        "id": "770",
+        "name": "Shave Harambe"
+      },
+      {
+        "id": "771",
+        "name": "Slappy Fish"
+      },
+      {
+        "id": "772",
+        "name": "Jungle Creek"
+      },
+      {
+        "id": "773",
+        "name": "Babylon test"
+      },
+      {
+        "id": "774",
+        "name": "Viridun FFA: KoTH"
+      },
+      {
+        "id": "775",
+        "name": "CUCKOO TE"
+      },
+      {
+        "id": "776",
+        "name": "Viridun FFA: Elytra KoTH"
+      },
+      {
+        "id": "777",
+        "name": "Map Map"
+      },
+      {
+        "id": "778",
+        "name": "Forsaken Pumpkins"
+      },
+      {
+        "id": "779",
+        "name": "scAIRSHIP Battle"
+      },
+      {
+        "id": "780",
+        "name": "Modern Glitch"
+      },
+      {
+        "id": "781",
+        "name": "Dirty Woods"
+      },
+      {
+        "id": "782",
+        "name": "Araxa"
+      },
+      {
+        "id": "783",
+        "name": "Spooky Smog"
+      },
+      {
+        "id": "784",
+        "name": "Snowy Wars Halloween"
+      },
+      {
+        "id": "785",
+        "name": "Abudracula"
+      },
+      {
+        "id": "786",
+        "name": "Haunted Blocks"
+      },
+      {
+        "id": "787",
+        "name": "Bloody Trident"
+      },
+      {
+        "id": "788",
+        "name": "Brisked Halloween"
+      },
+      {
+        "id": "789",
+        "name": "Spooky Lyndanisse"
+      },
+      {
+        "id": "790",
+        "name": "Haunted Rings"
+      },
+      {
+        "id": "791",
+        "name": "Chimeric Horror"
+      },
+      {
+        "id": "792",
+        "name": "BalloonsDTM: Halloween"
+      },
+      {
+        "id": "793",
+        "name": "Perspookysto"
+      },
+      {
+        "id": "794",
+        "name": "Halloween Train"
+      },
+      {
+        "id": "795",
+        "name": "Hallowed Harb"
+      },
+      {
+        "id": "796",
+        "name": "DynaboOo"
+      },
+      {
+        "id": "797",
+        "name": "Empire in Ruins"
+      },
+      {
+        "id": "798",
+        "name": "PixelMissing"
+      },
+      {
+        "id": "799",
+        "name": "Jungle Spook"
+      },
+      {
+        "id": "800",
+        "name": "SolitudeMC Halloween"
+      },
+      {
+        "id": "801",
+        "name": "Crenel Halloween"
+      },
+      {
+        "id": "802",
+        "name": "Spooky Country"
+      },
+      {
+        "id": "803",
+        "name": "Arko"
+      },
+      {
+        "id": "804",
+        "name": "Downforce 2"
+      },
+      {
+        "id": "805",
+        "name": "Neyud"
+      },
+      {
+        "id": "806",
+        "name": "Pirate Attack"
+      },
+      {
+        "id": "807",
+        "name": "Tired"
+      },
+      {
+        "id": "808",
+        "name": "Turbine"
+      },
+      {
+        "id": "809",
+        "name": "A SpOOky Sunset"
+      },
+      {
+        "id": "810",
+        "name": "Airship Battles 2"
+      },
+      {
+        "id": "811",
+        "name": "Airship Battle 2"
+      },
+      {
+        "id": "812",
+        "name": "Apex"
+      },
+      {
+        "id": "813",
+        "name": "Survival"
+      },
+      {
+        "id": "814",
+        "name": "Battle of Lyndanisse: TE"
+      },
+      {
+        "id": "815",
+        "name": "Spooky Rifter"
+      },
+      {
+        "id": "816",
+        "name": "Rift Redux: Halloween"
+      },
+      {
+        "id": "817",
+        "name": "Autumn in Kiev"
+      },
+      {
+        "id": "818",
+        "name": "Viridun KotH"
+      },
+      {
+        "id": "819",
+        "name": "Viridun FFA"
+      },
+      {
+        "id": "820",
+        "name": "Viridun FFA- No Elytra"
+      },
+      {
+        "id": "821",
+        "name": "Viridun Blitz"
+      },
+      {
+        "id": "822",
+        "name": "Viridun: Elytra"
+      },
+      {
+        "id": "823",
+        "name": "Viridun Blitz: RAGE"
+      },
+      {
+        "id": "824",
+        "name": "Viridun RAGE"
+      },
+      {
+        "id": "825",
+        "name": "Viridun"
+      },
+      {
+        "id": "826",
+        "name": "Amazon Kingdom DTC"
+      },
+      {
+        "id": "827",
+        "name": "Artholis"
+      },
+      {
+        "id": "828",
+        "name": "Fairy Tales 2: A Tale or Two"
+      },
+      {
+        "id": "829",
+        "name": "Tridente"
+      },
+      {
+        "id": "830",
+        "name": "Aethril II- Skywars"
+      },
+      {
+        "id": "831",
+        "name": "Mijuku test"
+      },
+      {
+        "id": "832",
+        "name": "Decay"
+      },
+      {
+        "id": "833",
+        "name": "Fairy Tales 2 Redux: A Tale or Two"
+      },
+      {
+        "id": "834",
+        "name": "Xi II"
+      },
+      {
+        "id": "835",
+        "name": "ChristmasQuad"
+      },
+      {
+        "id": "836",
+        "name": "ChristmasQuad: Primed"
+      },
+      {
+        "id": "837",
+        "name": "Zip"
+      },
+      {
+        "id": "838",
+        "name": "Zap"
+      },
+      {
+        "id": "839",
+        "name": "New_Rifter"
+      },
+      {
+        "id": "840",
+        "name": "Snowback"
+      },
+      {
+        "id": "841",
+        "name": "Chimeric Freeze II"
+      },
+      {
+        "id": "842",
+        "name": "Blizz Christmas"
+      },
+      {
+        "id": "843",
+        "name": "Deserted Sanctuary"
+      },
+      {
+        "id": "844",
+        "name": "Abudor: Christmas"
+      },
+      {
+        "id": "845",
+        "name": "Battle of Lyndanisse: Snowmen"
+      },
+      {
+        "id": "846",
+        "name": "Spooky Lyndanisse Blitz"
+      },
+      {
+        "id": "847",
+        "name": "Danagal Valley"
+      },
+      {
+        "id": "848",
+        "name": "BalloonsDTM: Christmas"
+      },
+      {
+        "id": "849",
+        "name": "Deadwater: Snowman&#39;s Isle"
+      },
+      {
+        "id": "850",
+        "name": "Christmas Country"
+      },
+      {
+        "id": "851",
+        "name": "Deadwater: Deadman&#39;s Isle"
+      },
+      {
+        "id": "852",
+        "name": "Concourse: Christmas"
+      },
+      {
+        "id": "853",
+        "name": "Two Trees"
+      },
+      {
+        "id": "854",
+        "name": "Snowy Wars Christmas"
+      },
+      {
+        "id": "855",
+        "name": "Holiday Blocks"
+      },
+      {
+        "id": "856",
+        "name": "Merry Drought"
+      },
+      {
+        "id": "857",
+        "name": "Ice Pond"
+      },
+      {
+        "id": "858",
+        "name": "SolitudeMC: Christmas"
+      },
+      {
+        "id": "859",
+        "name": "Twilight Zone: Redux"
+      },
+      {
+        "id": "860",
+        "name": "Shave Santa"
+      },
+      {
+        "id": "861",
+        "name": "Shave"
+      },
+      {
+        "id": "862",
+        "name": "ChristmasQuad:TE"
+      },
+      {
+        "id": "863",
+        "name": "Demaroo"
+      },
+      {
+        "id": "864",
+        "name": "Summer Day"
+      },
+      {
+        "id": "865",
+        "name": "Rift Redux: Christmas"
+      },
+      {
+        "id": "866",
+        "name": "Dracula"
+      },
+      {
+        "id": "867",
+        "name": "Mutiny"
+      },
+      {
+        "id": "868",
+        "name": "Aeruhohoho"
+      },
+      {
+        "id": "869",
+        "name": "Tatakai"
+      },
+      {
+        "id": "870",
+        "name": "Wool Story Bro"
+      },
+      {
+        "id": "871",
+        "name": "Fractured Ice"
+      },
+      {
+        "id": "872",
+        "name": "Oakspell"
+      },
+      {
+        "id": "873",
+        "name": "Mead"
+      },
+      {
+        "id": "874",
+        "name": "Aerugo"
+      },
+      {
+        "id": "875",
+        "name": "Arid Crossroads: Potions"
+      },
+      {
+        "id": "876",
+        "name": "rid Crossroads"
+      },
+      {
+        "id": "877",
+        "name": "Mijuku new"
+      },
+      {
+        "id": "878",
+        "name": "Venice TDM"
+      },
+      {
+        "id": "879",
+        "name": "Venice Blitz"
+      },
+      {
+        "id": "880",
+        "name": "Festive Venice"
+      },
+      {
+        "id": "881",
+        "name": "Snow Dune"
+      },
+      {
+        "id": "882",
+        "name": "Ximorta"
+      },
+      {
+        "id": "883",
+        "name": "The Endless River"
+      },
+      {
+        "id": "884",
+        "name": "Sinuous"
+      },
+      {
+        "id": "885",
+        "name": "Loyalty DTM"
+      },
+      {
+        "id": "886",
+        "name": "Beckam"
+      },
+      {
+        "id": "887",
+        "name": "Deadwater: Pirate&#39;s Grotto"
+      },
+      {
+        "id": "888",
+        "name": "Harb Blitz"
+      },
+      {
+        "id": "889",
+        "name": "Rough Patch"
+      },
+      {
+        "id": "890",
+        "name": "BlitzMiners"
+      },
+      {
+        "id": "891",
+        "name": "Radiant Castles: Rage"
+      },
+      {
+        "id": "892",
+        "name": "Rooted Frontier"
+      },
+      {
+        "id": "893",
+        "name": "Bill&#39;s Town Blitz"
+      },
+      {
+        "id": "894",
+        "name": "Hallow Side"
+      },
+      {
+        "id": "895",
+        "name": "Sore Teeth"
+      },
+      {
+        "id": "896",
+        "name": "Forsaken Stronghold"
+      },
+      {
+        "id": "897",
+        "name": "Bliss: Rage"
+      },
+      {
+        "id": "898",
+        "name": "Gravestone"
+      },
+      {
+        "id": "899",
+        "name": "Secluded Oasis"
+      },
+      {
+        "id": "900",
+        "name": "Chinatown"
+      },
+      {
+        "id": "901",
+        "name": "Drow&#39;s Crevice: UHC"
+      },
+      {
+        "id": "902",
+        "name": "Secluded Wharf"
+      },
+      {
+        "id": "903",
+        "name": "Forsaken Monument"
+      },
+      {
+        "id": "904",
+        "name": "Ahuiateteo"
+      },
+      {
+        "id": "905",
+        "name": "Proelium"
+      },
+      {
+        "id": "906",
+        "name": "Icy Peaks Blitz"
+      },
+      {
+        "id": "907",
+        "name": "Deadwater Docks"
+      },
+      {
+        "id": "908",
+        "name": "Battle of Lyndanisse Blitz"
+      },
+      {
+        "id": "909",
+        "name": "Relaxation"
+      },
+      {
+        "id": "910",
+        "name": "Foxtrot: A Dance to the Moonlight"
+      },
+      {
+        "id": "911",
+        "name": "Plus Side"
+      },
+      {
+        "id": "912",
+        "name": "Forsaken Fort"
+      },
+      {
+        "id": "913",
+        "name": "Secluded Palace"
+      },
+      {
+        "id": "914",
+        "name": "Abysm: Blitz"
+      },
+      {
+        "id": "915",
+        "name": "Dead Heat"
+      },
+      {
+        "id": "916",
+        "name": "Drow&#39;s Crevice: Blitz"
+      },
+      {
+        "id": "917",
+        "name": "Station: Blitz"
+      },
+      {
+        "id": "918",
+        "name": "Infinite Horror"
+      },
+      {
+        "id": "919",
+        "name": "Arbaro Blitzmas"
+      },
+      {
+        "id": "920",
+        "name": "Secluded Lakes"
+      },
+      {
+        "id": "921",
+        "name": "The Dome"
+      },
+      {
+        "id": "922",
+        "name": "The Suburbs Blitz"
+      },
+      {
+        "id": "923",
+        "name": "Sweet Tooth"
+      },
+      {
+        "id": "924",
+        "name": "Ieats Hall"
+      },
+      {
+        "id": "925",
+        "name": "Foxtrot"
+      },
+      {
+        "id": "926",
+        "name": "Hand of Lucifer"
+      },
+      {
+        "id": "927",
+        "name": "Oculo"
+      },
+      {
+        "id": "928",
+        "name": "Diramu Valley"
+      },
+      {
+        "id": "929",
+        "name": "Arbaro Blitz"
+      },
+      {
+        "id": "930",
+        "name": "Sin"
+      },
+      {
+        "id": "931",
+        "name": "Magnolia Creek"
+      },
+      {
+        "id": "932",
+        "name": "Frost Bound"
+      },
+      {
+        "id": "933",
+        "name": "Forsaken Ruins"
+      },
+      {
+        "id": "934",
+        "name": "Lush"
+      },
+      {
+        "id": "935",
+        "name": "Blizzard"
+      },
+      {
+        "id": "936",
+        "name": "Frozen Courtyard"
+      },
+      {
+        "id": "937",
+        "name": "Icy Boats: Rage"
+      },
+      {
+        "id": "938",
+        "name": "Sand Wars"
+      },
+      {
+        "id": "939",
+        "name": "Sand Wars: colored"
+      },
+      {
+        "id": "940",
+        "name": "Icy Boats"
+      },
+      {
+        "id": "941",
+        "name": "Skyline"
+      },
+      {
+        "id": "942",
+        "name": "Foundry: Payload"
+      },
+      {
+        "id": "943",
+        "name": "Payload: Foundry"
+      },
+      {
+        "id": "944",
+        "name": "Dao"
+      },
+      {
+        "id": "945",
+        "name": "Cerlise"
+      },
+      {
+        "id": "946",
+        "name": "Hoi"
+      },
+      {
+        "id": "947",
+        "name": "Payload: Foundry II"
+      },
+      {
+        "id": "948",
+        "name": "Abysm: Payload"
+      },
+      {
+        "id": "949",
+        "name": "Payload: Daouch"
+      },
+      {
+        "id": "950",
+        "name": "Microbattle"
+      },
+      {
+        "id": "951",
+        "name": "The Walls: Village"
+      },
+      {
+        "id": "952",
+        "name": "A New Day II"
+      },
+      {
+        "id": "953",
+        "name": "Western Port"
+      },
+      {
+        "id": "954",
+        "name": "Aardvark"
+      },
+      {
+        "id": "955",
+        "name": "Tasty Fight"
+      },
+      {
+        "id": "956",
+        "name": "Rolexius"
+      },
+      {
+        "id": "957",
+        "name": "Runes of Ruin"
+      },
+      {
+        "id": "958",
+        "name": "Wallop 9000"
+      },
+      {
+        "id": "959",
+        "name": "A New Day II: dcwars edit"
+      },
+      {
+        "id": "960",
+        "name": "Kame"
+      },
+      {
+        "id": "961",
+        "name": "Diramu Valley DTM"
+      },
+      {
+        "id": "962",
+        "name": "Aberration"
+      },
+      {
+        "id": "963",
+        "name": "Buzzard&#39;s Trail"
+      },
+      {
+        "id": "964",
+        "name": "A New Day"
+      },
+      {
+        "id": "965",
+        "name": "Embankment"
+      },
+      {
+        "id": "966",
+        "name": "Fallencrests"
+      },
+      {
+        "id": "967",
+        "name": "Immitis"
+      },
+      {
+        "id": "968",
+        "name": "Shock Wave"
+      },
+      {
+        "id": "969",
+        "name": "Tenebrous"
+      },
+      {
+        "id": "970",
+        "name": "Coral Reef II TE"
+      },
+      {
+        "id": "971",
+        "name": "9th Law"
+      },
+      {
+        "id": "972",
+        "name": "Blitzkrieg CTF"
+      },
+      {
+        "id": "973",
+        "name": "Dawnskirr"
+      },
+      {
+        "id": "974",
+        "name": "Doremi"
+      },
+      {
+        "id": "975",
+        "name": "Fox Strife"
+      },
+      {
+        "id": "976",
+        "name": "Ouroboros"
+      },
+      {
+        "id": "977",
+        "name": "Woolirium"
+      },
+      {
+        "id": "978",
+        "name": "Nightsail"
+      },
+      {
+        "id": "979",
+        "name": "Tanker"
+      },
+      {
+        "id": "980",
+        "name": "Ki"
+      },
+      {
+        "id": "981",
+        "name": "Pirates Den"
+      },
+      {
+        "id": "982",
+        "name": "Uchuu"
+      },
+      {
+        "id": "983",
+        "name": "Abaddon KOTH"
+      },
+      {
+        "id": "984",
+        "name": "Discipline"
+      },
+      {
+        "id": "985",
+        "name": "Ringround"
+      },
+      {
+        "id": "986",
+        "name": "UBoat Konig"
+      },
+      {
+        "id": "987",
+        "name": "The 4th Law"
+      },
+      {
+        "id": "988",
+        "name": "9.5th Law"
+      },
+      {
+        "id": "989",
+        "name": "The 8th Law"
+      },
+      {
+        "id": "990",
+        "name": "Remnant Souls"
+      },
+      {
+        "id": "991",
+        "name": "Pandemonium"
+      },
+      {
+        "id": "992",
+        "name": "Wrath Altar"
+      },
+      {
+        "id": "993",
+        "name": "Rift Redux: Winter"
+      },
+      {
+        "id": "994",
+        "name": "Zao"
+      },
+      {
+        "id": "995",
+        "name": "Clip"
+      },
+      {
+        "id": "996",
+        "name": "Hyperspace"
+      },
+      {
+        "id": "997",
+        "name": "Hallows CTW"
+      },
+      {
+        "id": "998",
+        "name": "Iris DTC TE"
+      },
+      {
+        "id": "999",
+        "name": "Downforce"
+      },
+      {
+        "id": "1000",
+        "name": "Arroyo Gultch"
+      },
+      {
+        "id": "1001",
+        "name": "Hallows"
+      },
+      {
+        "id": "1002",
+        "name": "Pinnacle"
+      },
+      {
+        "id": "1003",
+        "name": "Croak"
+      },
+      {
+        "id": "1004",
+        "name": "Boletum: Remix"
+      },
+      {
+        "id": "1005",
+        "name": "IDontOven"
+      },
+      {
+        "id": "1006",
+        "name": "TNT Bridge"
+      },
+      {
+        "id": "1007",
+        "name": "Control the Core"
+      },
+      {
+        "id": "1008",
+        "name": "ZZ Airship Battle"
+      },
+      {
+        "id": "1009",
+        "name": "Taxon"
+      },
+      {
+        "id": "1010",
+        "name": "Ushatak 2"
+      },
+      {
+        "id": "1011",
+        "name": "Tamblanor"
+      },
+      {
+        "id": "1012",
+        "name": "Starscraper"
+      },
+      {
+        "id": "1013",
+        "name": "Desolated Frontier"
+      },
+      {
+        "id": "1014",
+        "name": "Salvo"
+      },
+      {
+        "id": "1015",
+        "name": "Cataclysmic Temple"
+      },
+      {
+        "id": "1016",
+        "name": "Kingdoms at War"
+      },
+      {
+        "id": "1017",
+        "name": "Clock Wars"
+      },
+      {
+        "id": "1018",
+        "name": "Wilky Way"
+      },
+      {
+        "id": "1019",
+        "name": "Anirniit"
+      },
+      {
+        "id": "1020",
+        "name": "Diversity"
+      },
+      {
+        "id": "1021",
+        "name": "Ion"
+      },
+      {
+        "id": "1022",
+        "name": "Corrupted Kingdoms"
+      },
+      {
+        "id": "1023",
+        "name": "Aaeros"
+      },
+      {
+        "id": "1024",
+        "name": "Cubefield"
+      },
+      {
+        "id": "1025",
+        "name": "Graveyard"
+      },
+      {
+        "id": "1026",
+        "name": "Necro"
+      },
+      {
+        "id": "1027",
+        "name": "Pharaoh&#39;s Catacombs"
+      },
+      {
+        "id": "1028",
+        "name": "Monday"
+      },
+      {
+        "id": "1029",
+        "name": "Rift Redux"
+      },
+      {
+        "id": "1030",
+        "name": "Tamblanor RAGE"
+      },
+      {
+        "id": "1031",
+        "name": "Dorreak Half"
+      },
+      {
+        "id": "1032",
+        "name": "Scribble Isle"
+      },
+      {
+        "id": "1033",
+        "name": "Tiki Valley"
+      },
+      {
+        "id": "1034",
+        "name": "The President&#39;s Cottage"
+      },
+      {
+        "id": "1035",
+        "name": "Rampant"
+      },
+      {
+        "id": "1036",
+        "name": "Diskovery"
+      },
+      {
+        "id": "1037",
+        "name": "Easter Egg Hunt"
+      },
+      {
+        "id": "1038",
+        "name": "Train Robbery"
+      },
+      {
+        "id": "1039",
+        "name": "Void Madness"
+      },
+      {
+        "id": "1040",
+        "name": "Zombie Rush"
+      },
+      {
+        "id": "1041",
+        "name": "Acajou"
+      },
+      {
+        "id": "1042",
+        "name": "Novum"
+      },
+      {
+        "id": "1043",
+        "name": "Boom Payload"
+      },
+      {
+        "id": "1044",
+        "name": "Desolated"
+      },
+      {
+        "id": "1045",
+        "name": "A Watery Grave 2"
+      },
+      {
+        "id": "1046",
+        "name": "Blocks"
+      },
+      {
+        "id": "1047",
+        "name": "Natsukashii"
+      },
+      {
+        "id": "1048",
+        "name": "Babylon Payload"
+      },
+      {
+        "id": "1049",
+        "name": "Secret"
+      },
+      {
+        "id": "1050",
+        "name": "MM: Fangs"
+      },
+      {
+        "id": "1051",
+        "name": "MM: Onion"
+      },
+      {
+        "id": "1052",
+        "name": "MM: Hedges"
+      },
+      {
+        "id": "1053",
+        "name": "MM: Caved In"
+      },
+      {
+        "id": "1054",
+        "name": "MM: Lotus"
+      },
+      {
+        "id": "1055",
+        "name": "MM: Pyramid"
+      },
+      {
+        "id": "1056",
+        "name": "MM: Dark Scent"
+      },
+      {
+        "id": "1057",
+        "name": "MM: Crossroad"
+      },
+      {
+        "id": "1058",
+        "name": "MM: Discs"
+      },
+      {
+        "id": "1059",
+        "name": "MM: Quarry"
+      },
+      {
+        "id": "1060",
+        "name": "MM: Fortress"
+      },
+      {
+        "id": "1061",
+        "name": "King&#39;s Conquest: Apocalypse Ensues"
+      },
+      {
+        "id": "1062",
+        "name": "King&#39;s Conquest: Glacial"
+      },
+      {
+        "id": "1063",
+        "name": "King&#39;s Conquest: Arid Night"
+      },
+      {
+        "id": "1064",
+        "name": "King&#39;s Conquest: Incendiary"
+      },
+      {
+        "id": "1065",
+        "name": "King&#39;s Conquest"
+      },
+      {
+        "id": "1066",
+        "name": "Drow&#39;s Crevice III"
+      },
+      {
+        "id": "1067",
+        "name": "Ancient"
+      },
+      {
+        "id": "1068",
+        "name": "Siege Poster"
+      },
+      {
+        "id": "1069",
+        "name": "Avenue"
+      },
+      {
+        "id": "1070",
+        "name": "King&#39;s Conquest: Rampant"
+      },
+      {
+        "id": "1071",
+        "name": "Rai"
+      },
+      {
+        "id": "1072",
+        "name": "Sakura"
+      },
+      {
+        "id": "1073",
+        "name": "Macedon"
+      },
+      {
+        "id": "1074",
+        "name": "Gatewood Corridor"
+      },
+      {
+        "id": "1075",
+        "name": "Portobello"
+      },
+      {
+        "id": "1076",
+        "name": "Mantle"
+      },
+      {
+        "id": "1077",
+        "name": "Shroom Trip"
+      },
+      {
+        "id": "1078",
+        "name": "Forge"
+      },
+      {
+        "id": "1079",
+        "name": "Ruediger&#39;s Garden II"
+      },
+      {
+        "id": "1080",
+        "name": "Omega CTW"
+      },
+      {
+        "id": "1081",
+        "name": "Golden Drought II"
+      },
+      {
+        "id": "1082",
+        "name": "Arctic"
+      },
+      {
+        "id": "1083",
+        "name": "Molten Canyon"
+      },
+      {
+        "id": "1084",
+        "name": "Thicket Two"
+      },
+      {
+        "id": "1085",
+        "name": "The Complex CP"
+      },
+      {
+        "id": "1086",
+        "name": "Gelid"
+      },
+      {
+        "id": "1087",
+        "name": "Kumori KotH"
+      },
+      {
+        "id": "1088",
+        "name": "WarloOOO NO"
+      },
+      {
+        "id": "1089",
+        "name": "Safari"
+      },
+      {
+        "id": "1090",
+        "name": "Swamplands"
+      },
+      {
+        "id": "1091",
+        "name": "Green"
+      },
+      {
+        "id": "1092",
+        "name": "Terricreus"
+      },
+      {
+        "id": "1093",
+        "name": "Avalanche: Mini"
+      },
+      {
+        "id": "1094",
+        "name": "Secluded"
+      },
+      {
+        "id": "1095",
+        "name": "Scrap Mettle"
+      },
+      {
+        "id": "1096",
+        "name": "Justice CTW"
+      },
+      {
+        "id": "1097",
+        "name": "Clearcut TE"
+      },
+      {
+        "id": "1098",
+        "name": "Vertex"
+      },
+      {
+        "id": "1099",
+        "name": "Super Happy Fun World"
+      },
+      {
+        "id": "1100",
+        "name": "Concourse CTW"
+      },
+      {
+        "id": "1101",
+        "name": "Concourse CTW TE"
+      },
+      {
+        "id": "1102",
+        "name": "Wilbur"
+      },
+      {
+        "id": "1103",
+        "name": "Sakurauchi"
+      },
+      {
+        "id": "1104",
+        "name": "Union"
+      },
+      {
+        "id": "1105",
+        "name": "Brrr"
+      },
+      {
+        "id": "1106",
+        "name": "Geoffery"
+      },
+      {
+        "id": "1107",
+        "name": "Enchanting"
+      },
+      {
+        "id": "1108",
+        "name": "Clockwork"
+      },
+      {
+        "id": "1109",
+        "name": "Y4"
+      },
+      {
+        "id": "1110",
+        "name": "Sand and also a bit of Gravel Wars"
+      },
+      {
+        "id": "1111",
+        "name": "Sand Wars: Deluxe"
+      },
+      {
+        "id": "1112",
+        "name": "Chunky Combat"
+      },
+      {
+        "id": "1113",
+        "name": "Flow"
+      },
+      {
+        "id": "1114",
+        "name": "Dead Heat TE"
+      },
+      {
+        "id": "1115",
+        "name": "Purge"
+      },
+      {
+        "id": "1116",
+        "name": "Interus"
+      },
+      {
+        "id": "1117",
+        "name": "Pine Cove"
+      },
+      {
+        "id": "1118",
+        "name": "Nyah"
+      },
+      {
+        "id": "1119",
+        "name": "Rendezvous"
+      },
+      {
+        "id": "1120",
+        "name": "Omnium"
+      },
+      {
+        "id": "1121",
+        "name": "The Arena"
+      },
+      {
+        "id": "1122",
+        "name": "Hanging Garden"
+      },
+      {
+        "id": "1123",
+        "name": "Long Shot TE"
+      },
+      {
+        "id": "1124",
+        "name": "MM: Forest Crypt"
+      },
+      {
+        "id": "1125",
+        "name": "MM: Alien"
+      },
+      {
+        "id": "1126",
+        "name": "MM: Decay"
+      },
+      {
+        "id": "1127",
+        "name": "MM: Rig"
+      },
+      {
+        "id": "1128",
+        "name": "Nartica TE"
+      },
+      {
+        "id": "1129",
+        "name": "Ghostwind Mountain"
+      },
+      {
+        "id": "1130",
+        "name": "Marketplace"
+      },
+      {
+        "id": "1131",
+        "name": "Counter-Strike: Global Offensive"
+      },
+      {
+        "id": "1132",
+        "name": "Burnette"
+      },
+      {
+        "id": "1133",
+        "name": "Scorched Grove"
+      },
+      {
+        "id": "1134",
+        "name": "Golden Drought V"
+      },
+      {
+        "id": "1135",
+        "name": "King&#39;s Conquest: Arid Crossroads"
+      },
+      {
+        "id": "1136",
+        "name": "King&#39;s Conquest: CotBot"
+      },
+      {
+        "id": "1137",
+        "name": "King&#39;s Conquest: Radiant Castles"
+      },
+      {
+        "id": "1138",
+        "name": "King&#39;s Conquest: Wonderland"
+      },
+      {
+        "id": "1139",
+        "name": "King&#39;s Conquest: Sentio"
+      },
+      {
+        "id": "1140",
+        "name": "King&#39;s Conquest: Golden Gate"
+      },
+      {
+        "id": "1141",
+        "name": "Wallop"
+      },
+      {
+        "id": "1142",
+        "name": "Versatile"
+      },
+      {
+        "id": "1143",
+        "name": "Interitus TE"
+      },
+      {
+        "id": "1144",
+        "name": "Abandoned Zoo"
+      },
+      {
+        "id": "1145",
+        "name": "Facility TE"
+      },
+      {
+        "id": "1146",
+        "name": "Donut Wars"
+      },
+      {
+        "id": "1147",
+        "name": "Hardened Path"
+      },
+      {
+        "id": "1148",
+        "name": "Grassy Mound"
+      },
+      {
+        "id": "1149",
+        "name": "Ruediger&#39;s Oasis"
+      },
+      {
+        "id": "1150",
+        "name": "Aerospace"
+      },
+      {
+        "id": "1151",
+        "name": "Command"
+      },
+      {
+        "id": "1152",
+        "name": "Sandy"
+      },
+      {
+        "id": "1153",
+        "name": "Ghastly Mound"
+      },
+      {
+        "id": "1154",
+        "name": "Temple Run"
+      },
+      {
+        "id": "1155",
+        "name": "Flush"
+      },
+      {
+        "id": "1156",
+        "name": "Revenge TE"
+      },
+      {
+        "id": "1157",
+        "name": "Cat&#39;s Cradle"
+      },
+      {
+        "id": "1158",
+        "name": "Burnette: Halloween"
+      },
+      {
+        "id": "1159",
+        "name": "Fracture DTM: Halloween"
+      },
+      {
+        "id": "1160",
+        "name": "Scareros"
+      },
+      {
+        "id": "1161",
+        "name": "BackSPOOK"
+      },
+      {
+        "id": "1162",
+        "name": "Rotten Slopes"
+      },
+      {
+        "id": "1163",
+        "name": "Ruediger&#39;s Spooky Garden"
+      },
+      {
+        "id": "1164",
+        "name": "Deadman&#39;s Isle"
+      },
+      {
+        "id": "1165",
+        "name": "Undead Heat"
+      },
+      {
+        "id": "1166",
+        "name": "ArBOOro Blitz"
+      },
+      {
+        "id": "1167",
+        "name": "Palude"
+      },
+      {
+        "id": "1168",
+        "name": "The End"
+      },
+      {
+        "id": "1169",
+        "name": "Overgrown Blitz"
+      },
+      {
+        "id": "1170",
+        "name": "Mushrooms of Oblivion"
+      },
+      {
+        "id": "1171",
+        "name": "Referee meeting"
+      },
+      {
+        "id": "1172",
+        "name": "Palmyra"
+      },
+      {
+        "id": "1173",
+        "name": "Lilypad Lagoon: FFA"
+      },
+      {
+        "id": "1174",
+        "name": "Deserted"
+      },
+      {
+        "id": "1175",
+        "name": "Animus"
+      },
+      {
+        "id": "1176",
+        "name": "Retro"
+      },
+      {
+        "id": "1177",
+        "name": "The Gloom"
+      },
+      {
+        "id": "1178",
+        "name": "Wilson&#39;s Hill"
+      },
+      {
+        "id": "1179",
+        "name": "Weeping Shadows"
+      },
+      {
+        "id": "1180",
+        "name": "Retro Halloween"
+      },
+      {
+        "id": "1181",
+        "name": "Vine"
+      },
+      {
+        "id": "1182",
+        "name": "Scrap Mettle TE"
+      },
+      {
+        "id": "1183",
+        "name": "Avalanche"
+      },
+      {
+        "id": "1184",
+        "name": "Oasis"
+      },
+      {
+        "id": "1185",
+        "name": "Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme"
+      },
+      {
+        "id": "1186",
+        "name": "Fourlls"
+      },
+      {
+        "id": "1187",
+        "name": "Zufluct"
+      },
+      {
+        "id": "1188",
+        "name": "Lost Woods TDM"
+      },
+      {
+        "id": "1189",
+        "name": "Wooly Woods DTM"
+      },
+      {
+        "id": "1190",
+        "name": "Immitis FFA"
+      },
+      {
+        "id": "1191",
+        "name": "Wooly Woods RAGE"
+      },
+      {
+        "id": "1192",
+        "name": "Mele Kalikimaka"
+      },
+      {
+        "id": "1193",
+        "name": "Urban"
+      },
+      {
+        "id": "1194",
+        "name": "Project Chromozome"
+      },
+      {
+        "id": "1195",
+        "name": "CannonQuad"
+      },
+      {
+        "id": "1196",
+        "name": "Kaskai KotH"
+      },
+      {
+        "id": "1197",
+        "name": "Battle Ecliptica"
+      },
+      {
+        "id": "1198",
+        "name": "Spaceship Battles: DTE"
+      },
+      {
+        "id": "1199",
+        "name": "Blocks DTC: Tournament"
+      },
+      {
+        "id": "1200",
+        "name": "Deus ex Machinations: DTC"
+      },
+      {
+        "id": "1201",
+        "name": "csc(tnt)"
+      },
+      {
+        "id": "1202",
+        "name": "War Wars: SolitudeMC"
+      },
+      {
+        "id": "1203",
+        "name": "Big Bubble Brawl: Arena"
+      },
+      {
+        "id": "1204",
+        "name": "Pirate Ship"
+      },
+      {
+        "id": "1205",
+        "name": "Barf Box"
+      },
+      {
+        "id": "1206",
+        "name": "Flappy Bird"
+      },
+      {
+        "id": "1207",
+        "name": "Plunge: Cavern"
+      },
+      {
+        "id": "1208",
+        "name": "Conclave"
+      },
+      {
+        "id": "1209",
+        "name": "Plunge: Rose Cord"
+      },
+      {
+        "id": "1210",
+        "name": "Infection: Grad"
+      },
+      {
+        "id": "1211",
+        "name": "Ozone: EndeRAGE FFA"
+      },
+      {
+        "id": "1212",
+        "name": "Cerulean"
+      },
+      {
+        "id": "1213",
+        "name": "Royal Christmas DTC"
+      },
+      {
+        "id": "1214",
+        "name": "Snowy Plateau"
+      },
+      {
+        "id": "1215",
+        "name": "AaerHoHoHos"
+      },
+      {
+        "id": "1216",
+        "name": "Bamboozled"
+      },
+      {
+        "id": "1217",
+        "name": "Hekla"
+      },
+      {
+        "id": "1218",
+        "name": "Sky High"
+      },
+      {
+        "id": "1219",
+        "name": "Ignum"
+      },
+      {
+        "id": "1220",
+        "name": "Interitus: Mini"
+      },
+      {
+        "id": "1221",
+        "name": "Wit&#39;s End TE"
+      },
+      {
+        "id": "1222",
+        "name": "Poise"
+      },
+      {
+        "id": "1223",
+        "name": "Abandoned Zoo TE"
+      },
+      {
+        "id": "1224",
+        "name": "Mo Bamba"
+      },
+      {
+        "id": "1225",
+        "name": "Deepwind Jungle: TE"
+      },
+      {
+        "id": "1226",
+        "name": "Highlands TE"
+      },
+      {
+        "id": "1227",
+        "name": "Revenge"
+      },
+      {
+        "id": "1228",
+        "name": "Mushdoom"
+      },
+      {
+        "id": "1229",
+        "name": "101 Rooms"
+      },
+      {
+        "id": "1230",
+        "name": "Covert Fortress"
+      },
+      {
+        "id": "1231",
+        "name": "Beehive"
+      },
+      {
+        "id": "1232",
+        "name": "Diablo"
+      },
+      {
+        "id": "1233",
+        "name": "SICKO MODE"
+      },
+      {
+        "id": "1234",
+        "name": "Bigfoot"
+      },
+      {
+        "id": "1235",
+        "name": "Seven"
+      },
+      {
+        "id": "1236",
+        "name": "Garden"
+      },
+      {
+        "id": "1237",
+        "name": "Stampede: Redux"
+      },
+      {
+        "id": "1238",
+        "name": "Anathema CTF"
+      },
+      {
+        "id": "1239",
+        "name": "Lagoon"
+      },
+      {
+        "id": "1240",
+        "name": "Arena"
+      },
+      {
+        "id": "1241",
+        "name": "Sunrise Over Paradise: Emerald"
+      },
+      {
+        "id": "1242",
+        "name": "Sheol"
+      },
+      {
+        "id": "1243",
+        "name": "Derelinquo"
+      },
+      {
+        "id": "1244",
+        "name": "Under The Sea"
+      },
+      {
+        "id": "1245",
+        "name": "Toss Up"
+      },
+      {
+        "id": "1246",
+        "name": "Government"
+      },
+      {
+        "id": "1247",
+        "name": "Hillside Mini"
+      },
+      {
+        "id": "1248",
+        "name": "Storm: Redux"
+      },
+      {
+        "id": "1249",
+        "name": "Lunen"
+      }
+    ]
+  }
+}

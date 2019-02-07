@@ -1,0 +1,30 @@
+{
+  "name": "stratusnotifierapi",
+  "version": "0.0.1",
+  "description": "API for Stratus Notifier web extension",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.14.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stratusnotifier/API.git"
+  },
+  "keywords": [
+    "stratus",
+    "api",
+    "chrome",
+    "notify"
+  ],
+  "author": "unixfox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stratusnotifier/API/issues"
+  },
+  "homepage": "https://github.com/stratusnotifier/API#readme"
+}
