@@ -34,7 +34,7 @@ getJSON('https://cloudquery.unixfox.eu/query?url=https%3A%2F%2Fstratus.network%2
             console.log('JSON Server is running');
         });
     }
-    else process.exit(1);
+    else process.exit(0);
 });
 
 setInterval(function () {
@@ -43,6 +43,5 @@ setInterval(function () {
             mapName = response.contents[0].innerText;
             playersNumber = response.contents[1].innerText;
         }
-        else process.exit(1);
     });
 }, 10000);
