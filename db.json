@@ -3,7 +3,6 @@
     "maps": [
       {
         "name": "Mushroom Gorge",
-        "thumb": "https://i.imgur.com/qE3eamZ.png",
         "id": "0"
       },
       {
@@ -60,23 +59,23 @@
       },
       {
         "id": "14",
-        "name": "Deepwind Redux"
-      },
-      {
-        "id": "15",
         "name": "Tetrad"
       },
       {
-        "id": "16",
-        "name": "Directrix"
+        "id": "15",
+        "name": "Deepwind Redux"
       },
       {
-        "id": "17",
+        "id": "16",
         "name": "BlockRAGE"
       },
       {
-        "id": "18",
+        "id": "17",
         "name": "Battle Ecliptica III"
+      },
+      {
+        "id": "18",
+        "name": "Directrix"
       },
       {
         "id": "19",
@@ -92,11 +91,11 @@
       },
       {
         "id": "22",
-        "name": "Limbo II"
+        "name": "Atromix"
       },
       {
         "id": "23",
-        "name": "Atromix"
+        "name": "Limbo II"
       },
       {
         "id": "24",
@@ -124,11 +123,11 @@
       },
       {
         "id": "30",
-        "name": "Wit&#39;s End"
+        "name": "Quadrival"
       },
       {
         "id": "31",
-        "name": "Quadrival"
+        "name": "Wit&#39;s End"
       },
       {
         "id": "32",
@@ -144,79 +143,79 @@
       },
       {
         "id": "35",
-        "name": "Clearcut"
-      },
-      {
-        "id": "36",
         "name": "The Hill"
       },
       {
-        "id": "37",
+        "id": "36",
         "name": "Little China"
       },
       {
-        "id": "38",
+        "id": "37",
         "name": "Persisto"
       },
       {
-        "id": "39",
+        "id": "38",
         "name": "Enchanted"
       },
       {
-        "id": "40",
+        "id": "39",
         "name": "Egyptian Madness"
       },
       {
-        "id": "41",
-        "name": "Facility"
-      },
-      {
-        "id": "42",
+        "id": "40",
         "name": "Hot Dam"
       },
       {
-        "id": "43",
-        "name": "Equinox"
-      },
-      {
-        "id": "44",
-        "name": "Fumeen II"
-      },
-      {
-        "id": "45",
+        "id": "41",
         "name": "Water Drop: Original"
       },
       {
-        "id": "46",
+        "id": "42",
+        "name": "Facility"
+      },
+      {
+        "id": "43",
         "name": "Warlock"
       },
       {
-        "id": "47",
+        "id": "44",
         "name": "Desert Sanctuary"
       },
       {
-        "id": "48",
+        "id": "45",
+        "name": "Equinox"
+      },
+      {
+        "id": "46",
         "name": "Desolate Gully"
       },
       {
-        "id": "49",
+        "id": "47",
+        "name": "Fumeen II"
+      },
+      {
+        "id": "48",
         "name": "Cake Day"
       },
       {
-        "id": "50",
+        "id": "49",
         "name": "Kaldr"
       },
       {
-        "id": "51",
+        "id": "50",
         "name": "The Arena: Redux"
       },
       {
+        "id": "51",
+        "name": "Banana Split"
+      },
+      {
         "id": "52",
-        "name": "Concourse"
+        "name": "Banana Unsplit"
       },
       {
         "id": "53",
-        "name": "Banana Unsplit"
+        "name": "Clearcut"
       },
       {
         "id": "54",
@@ -232,35 +231,35 @@
       },
       {
         "id": "57",
-        "name": "Storm"
+        "name": "Agrostid"
       },
       {
         "id": "58",
-        "name": "OutCast"
+        "name": "Storm"
       },
       {
         "id": "59",
-        "name": "Rotten"
+        "name": "OutCast"
       },
       {
         "id": "60",
-        "name": "Seahold"
+        "name": "Rotten"
       },
       {
         "id": "61",
-        "name": "Relic"
+        "name": "Seahold"
       },
       {
         "id": "62",
-        "name": "Tahiti"
+        "name": "Relic"
       },
       {
         "id": "63",
-        "name": "Babylon"
+        "name": "Tahiti"
       },
       {
         "id": "64",
-        "name": "Agrostid"
+        "name": "Babylon"
       },
       {
         "id": "65",
@@ -4392,7 +4391,7 @@
       },
       {
         "id": "1097",
-        "name": "Clearcut TE"
+        "name": "Clearcut: TE"
       },
       {
         "id": "1098",
@@ -4932,75 +4931,83 @@
       },
       {
         "id": "1232",
-        "name": "Diablo"
+        "name": "Coppice"
       },
       {
         "id": "1233",
-        "name": "SICKO MODE"
+        "name": "Diablo"
       },
       {
         "id": "1234",
-        "name": "Bigfoot"
+        "name": "SICKO MODE"
       },
       {
         "id": "1235",
-        "name": "Seven"
+        "name": "Bigfoot"
       },
       {
         "id": "1236",
-        "name": "Garden"
+        "name": "Seven"
       },
       {
         "id": "1237",
-        "name": "Stampede: Redux"
+        "name": "Garden"
       },
       {
         "id": "1238",
-        "name": "Anathema CTF"
+        "name": "Stampede: Redux"
       },
       {
         "id": "1239",
-        "name": "Lagoon"
+        "name": "Anathema CTF"
       },
       {
         "id": "1240",
-        "name": "Arena"
+        "name": "Lagoon"
       },
       {
         "id": "1241",
-        "name": "Sunrise Over Paradise: Emerald"
+        "name": "Arena"
       },
       {
         "id": "1242",
-        "name": "Sheol"
+        "name": "Sunrise Over Paradise: Emerald"
       },
       {
         "id": "1243",
-        "name": "Derelinquo"
+        "name": "Sheol"
       },
       {
         "id": "1244",
-        "name": "Under The Sea"
+        "name": "Derelinquo"
       },
       {
         "id": "1245",
-        "name": "Toss Up"
+        "name": "Under The Sea"
       },
       {
         "id": "1246",
-        "name": "Government"
+        "name": "Toss Up"
       },
       {
         "id": "1247",
-        "name": "Hillside Mini"
+        "name": "Government"
       },
       {
         "id": "1248",
-        "name": "Storm: Redux"
+        "name": "Stonehenge"
       },
       {
         "id": "1249",
+        "name": "Storm: Redux"
+      },
+      {
+        "id": "1250",
         "name": "Lunen"
+      },
+      {
+        "id": "1251",
+        "name": "Six TE"
       }
     ]
   }
