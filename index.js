@@ -10,21 +10,26 @@ const options = {
     json: true
 }
 
-var mapName;
-var playersNumber;
+let mapName = "Example";
+let playersNumber = '-1';
+let mapID = 999999;
 
 server.use(jsonServer.bodyParser);
 server.get('/servers', function (req, res) {
+    if (parsedJSON.maps.maps.filter(map => map.name === mapName)[0])
+        mapID = Number(parsedJSON.maps.maps.filter(map => map.name === mapName)[0].id);
+    else
+        mapID = 999999;
     res.status(200).send({
         "servers": [
             {
                 "region": "US",
                 "map": {
-                    "id": (Number(parsedJSON.maps.maps.filter(map => map.name === mapName)[0].id) || 999999),
-                    "name": (mapName || 'Example')
+                    "id": mapID,
+                    "name": mapName
                 },
                 "name": "Mixed",
-                "playing": (playersNumber || '-1')
+                "playing": playersNumber
             }
         ]
     });
@@ -38,7 +43,7 @@ server.listen(3000, () => {
 request(options, function (error, response, body) {
     if (!error) {
         mapName = body.contents[0].innerText;
-        playersNumber = body.contents[1].innerText;
+        playersNumber = body.contents[1].innerText.replace(" players", "");
     }
     else console.log(error);
 });
@@ -47,7 +52,7 @@ setInterval(function () {
     request(options, function (error, response, body) {
         if (!error) {
             mapName = body.contents[0].innerText;
-            playersNumber = body.contents[1].innerText;
+            playersNumber = body.contents[1].innerText.replace(" players", "");
         }
         else console.log(error);
     });
