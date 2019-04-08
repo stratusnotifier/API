@@ -20,12 +20,15 @@ const requestJsonData = {
 server.use(jsonServer.bodyParser);
 server.get('/servers', function (req, res) {
     requestJsonBaseUrl.post('api/tsdb/query', requestJsonData, function (err, reponse, body) {
+        let mapID = 999999;
+        if (parsedJSON.maps.maps.filter(map => map.name === body.results.A.tables[0].rows[0][2])[0])
+            mapID = Number(parsedJSON.maps.maps.filter(map => map.name === body.results.A.tables[0].rows[0][2])[0].id);
         res.status(200).send({
             "servers": [
                 {
                     "region": "US",
                     "map": {
-                        "id": Number(parsedJSON.maps.maps.filter(map => map.name === body.results.A.tables[0].rows[0][2])[0].id),
+                        "id": mapID,
                         "name": body.results.A.tables[0].rows[0][2]
                     },
                     "name": "Mixed",
