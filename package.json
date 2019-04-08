@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "json-server": "^0.14.2",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "request-json": "^0.6.4"
   },
   "devDependencies": {},
   "scripts": {
